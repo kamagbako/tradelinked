@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "title": "TradeLinked — Negocie com Inteligência, Faça o Seu Portfólio Crescer",
+    "description": "O TradeLinked é um portal de trading e investimento seguro, com acesso ao mercado em tempo real, extratos transparentes e suporte dedicado.",
+    "ogDescription": "Acesso ao mercado em tempo real, extratos transparentes e suporte dedicado para investir com confiança.",
+    "twitterDescription": "Acesso ao mercado em tempo real, extratos transparentes e suporte dedicado."
+  },
+  "nav": {
+    "about": "Sobre",
+    "howItWorks": "Como funciona",
+    "plans": "Planos",
+    "payments": "Pagamentos",
+    "security": "Segurança",
+    "logIn": "Entrar",
+    "getStarted": "Começar",
+    "toggleMenu": "Alternar menu"
+  },
+  "footer": {
+    "tagline": "Um portal de trading e investimento seguro, criado para o crescimento transparente do portfólio.",
+    "company": "Empresa",
+    "about": "Sobre",
+    "investmentPlans": "Planos de Investimento",
+    "security": "Segurança",
+    "legal": "Legal",
+    "terms": "Termos de Serviço",
+    "privacy": "Política de Privacidade",
+    "riskDisclosure": "Aviso de Risco Forex",
+    "account": "Conta",
+    "logIn": "Entrar",
+    "register": "Cadastrar-se",
+    "copyright": "© {year} TradeLinked. Todos os direitos reservados. Negociar envolve riscos; o desempenho passado não garante resultados futuros."
+  },
+  "hero": {
+    "badge": "Custódia regulada · Criptografia de nível bancário",
+    "title": "Negocie com inteligência. <grow>Faça crescer</grow> o seu portfólio com confiança.",
+    "subtitle": "O TradeLinked oferece acesso ao mercado em tempo real, extratos transparentes e uma equipe de suporte dedicada — tudo o que você precisa para investir com clareza.",
+    "createAccount": "Criar conta grátis",
+    "viewPlans": "Ver planos de investimento",
+    "stats": {
+      "aum": "Ativos sob gestão",
+      "traders": "Traders ativos",
+      "roi": "ROI mensal médio"
+    }
+  },
+  "about": {
+    "fastProgress": {
+      "title": "Progresso rápido",
+      "body": "Veja depósitos, lucros e saques refletidos no seu extrato em tempo real. Cada movimentação é registrada, para que você saiba sempre qual é o seu saldo."
+    },
+    "modernPlatform": {
+      "title": "Uma plataforma moderna",
+      "body": "Um só lugar para dados de mercado ao vivo, o seu portfólio e o suporte. Criada para celular em primeiro lugar, funciona tão bem no seu telefone quanto no computador — e se instala como um aplicativo.",
+      "explorePlans": "Conheça os planos"
+    },
+    "heading": "Sobre o <brand>TradeLinked</brand>",
+    "whoWeAre": "Quem somos",
+    "lead": "Um portal de trading e investimento baseado em transparência, rapidez e suporte direto.",
+    "body": "O TradeLinked oferece aos clientes acesso em tempo real aos mercados globais, um rastro de auditoria completo para cada alteração de saldo e uma equipe de suporte a uma mensagem de distância. Mantemos a experiência simples: financie a sua conta, ative um plano e acompanhe o seu portfólio em um painel claro.",
+    "disclaimer": "Negociar envolve riscos. Os valores apresentados nesta página são ilustrativos e não garantem resultados futuros.",
+    "chartCaption": "Desempenho do portfólio · dados de exemplo para ilustração",
+    "thisMonth": "Este mês",
+    "anywhereHeading": "Acesse e gerencie todos os seus investimentos de qualquer lugar",
+    "anywhereBody": "O seu painel acompanha você em todos os dispositivos. Instale o TradeLinked na tela inicial para acessar com um toque os mercados ao vivo, o seu saldo e o seu extrato.",
+    "getStarted": "Começar",
+    "installable": "Instalável no iOS e no Android"
+  },
+  "howItWorks": {
+    "heading": "Como o TradeLinked funciona",
+    "subtitle": "Um processo simples em quatro etapas — da criação da conta ao saque dos fundos.",
+    "stepLabel": "Etapa {step}.",
+    "steps": {
+      "create": {
+        "title": "Crie a sua conta",
+        "body": "Cadastre-se com o seu e-mail em menos de um minuto. O painel, o extrato e o acesso ao suporte ficam prontos assim que você entra."
+      },
+      "fund": {
+        "title": "Financie o seu saldo",
+        "body": "Abra o Depósito Rápido no seu painel e envie os fundos usando os dados de pagamento indicados. A nossa equipe credita o seu saldo assim que a transferência for confirmada."
+      },
+      "activate": {
+        "title": "Ative um plano e acompanhe",
+        "body": "Fale com o suporte para ativar o plano que combina com você e depois acompanhe cada crédito e débito no seu extrato ao vivo, em tempo real."
+      },
+      "withdraw": {
+        "title": "Saque quando quiser",
+        "body": "Envie uma solicitação de saque pelo seu painel. Ela é analisada pela nossa equipe e você recebe um e-mail assim que for aprovada ou recusada."
+      }
+    }
+  },
+  "plans": {
+    "heading": "Planos de Investimento",
+    "subtitle": "Escolha um plano que se ajuste aos seus objetivos de investimento.",
+    "mostPopular": "Mais popular",
+    "perDays": "/ {days} dias",
+    "contactSupport": "Fale com o suporte para investir",
+    "drawerTitle": "Invista no {plan}",
+    "drawerBody": "Para começar com o plano <plan>{name}</plan>, entre em contato com a nossa equipe de suporte. Ela vai orientar você no financiamento da conta e na ativação do plano.",
+    "chatWhatsApp": "Conversar no WhatsApp",
+    "items": {
+      "starter": {
+        "name": "Starter",
+        "features": {
+          "ticker": "Acesso diário ao ticker de mercado",
+          "email": "Suporte por e-mail",
+          "ledger": "Acompanhamento instantâneo do extrato"
+        }
+      },
+      "growth": {
+        "name": "Growth",
+        "features": {
+          "withdrawal": "Análise prioritária de saques",
+          "whatsapp": "Suporte por WhatsApp",
+          "note": "Nota de conta dedicada"
+        }
+      },
+      "elite": {
+        "name": "Elite",
+        "features": {
+          "manager": "Gerente de conta pessoal",
+          "payout": "Agendamento de pagamentos personalizado",
+          "priority": "Linha de suporte prioritária"
+        }
+      }
+    }
+  },
+  "payments": {
+    "heading": "Métodos de pagamento aceitos",
+    "subtitle": "Financie a sua conta com opções de pagamento práticas e amplamente usadas. Os dados exatos de depósito são exibidos com segurança dentro do seu painel.",
+    "bankTransfer": "Transferência bancária"
+  },
+  "security": {
+    "heading": "Construído sobre a Segurança",
+    "subtitle": "O seu capital e os seus dados são protegidos em todas as camadas.",
+    "features": {
+      "encryption": {
+        "title": "Criptografia de nível bancário",
+        "description": "Todos os dados em trânsito e em repouso são criptografados com AES-256, o padrão do setor."
+      },
+      "custody": {
+        "title": "Custódia segregada",
+        "description": "Os fundos dos clientes são mantidos separados do capital operacional o tempo todo."
+      },
+      "auth": {
+        "title": "Autenticação segura",
+        "description": "Autenticação baseada em sessão, com segurança em nível de linha em cada consulta ao banco de dados."
+      },
+      "audit": {
+        "title": "Rastro de auditoria completo",
+        "description": "Cada alteração de saldo é registrada e rastreável no histórico do seu extrato."
+      }
+    }
+  },
+  "partners": {
+    "heading": "Nossos parceiros estratégicos",
+    "subtitle": "O TradeLinked firmou parcerias com diversos projetos, ampliando a nossa presença no mercado global."
+  },
+  "cta": {
+    "heading": "Pronto para começar?",
+    "body": "Crie hoje a sua conta grátis e explore a plataforma no seu ritmo.",
+    "button": "Criar conta grátis"
+  },
+  "chat": {
+    "dialogLabel": "Chat de suporte ao cliente",
+    "title": "Suporte ao Cliente",
+    "replyTime": "Normalmente responde em minutos",
+    "greeting": "Olá! Como posso ajudar você hoje?",
+    "continueWhatsApp": "Continuar no WhatsApp",
+    "typing": "O suporte está digitando",
+    "placeholder": "Digite uma mensagem…",
+    "inputLabel": "Digite uma mensagem",
+    "send": "Enviar mensagem",
+    "close": "Fechar chat de suporte",
+    "open": "Abrir chat de suporte",
+    "replyWhatsApp": "Obrigado pela sua mensagem! A nossa equipe de suporte pode continuar esta conversa diretamente com você no WhatsApp.",
+    "replyLogin": "Obrigado pela sua mensagem! Entre ou cadastre-se e a nossa equipe de suporte atenderá você a partir daí.",
+    "topics": {
+      "deposit": {
+        "label": "Como faço um depósito?",
+        "answer": "Crie uma conta, abra o seu painel e toque em Depósito Rápido. Envie os fundos usando os dados exibidos ali e a nossa equipe credita o seu saldo assim que a transferência for confirmada."
+      },
+      "withdraw": {
+        "label": "Como funcionam os saques?",
+        "answer": "Envie uma solicitação de saque pelo seu painel. A nossa equipe a analisa e você receberá um e-mail assim que for aprovada ou recusada."
+      },
+      "plans": {
+        "label": "Quais planos estão disponíveis?",
+        "answer": "Oferecemos os planos Starter, Growth e Elite. Veja a seção Planos de Investimento nesta página para conhecer as faixas de depósito e os benefícios e depois fale com o suporte para ativar um."
+      },
+      "person": {
+        "label": "Falar com uma pessoa",
+        "answer": "Teremos prazer em colocar você em contato com a nossa equipe de suporte.",
+        "handoff": "Olá, gostaria de falar com o suporte."
+      }
+    }
+  },
+  "legal": {
+    "backToRegistration": "Voltar ao cadastro",
+    "lastUpdated": "Última atualização: {updated}",
+    "updated": "setembro de 2026",
+    "terms": {
+      "title": "Termos de Serviço",
+      "sections": {
+        "acceptance": {
+          "heading": "1. Aceitação",
+          "body": "Ao criar uma conta, você concorda com estes Termos. Se não concordar, não utilize a plataforma."
+        },
+        "account": {
+          "heading": "2. A sua conta",
+          "body": "Você deve fornecer informações corretas e manter as suas credenciais de acesso em sigilo. Você é responsável por toda a atividade realizada na sua conta."
+        },
+        "transactions": {
+          "heading": "3. Depósitos e saques",
+          "body": "Os depósitos são creditados depois que a nossa equipe confirma o recebimento. As solicitações de saque são analisadas antes da aprovação e podem ser rejeitadas ou atrasadas por motivos de verificação, segurança ou conformidade."
+        },
+        "restrictions": {
+          "heading": "4. Restrições de conta",
+          "body": "Podemos bloquear ou encerrar contas que violem estes Termos ou que suspeitemos razoavelmente de uso indevido."
+        },
+        "changes": {
+          "heading": "5. Alterações",
+          "body": "Podemos atualizar estes Termos. O uso continuado da plataforma significa que você aceita a versão atualizada."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Política de Privacidade",
+      "sections": {
+        "collect": {
+          "heading": "Informações que coletamos",
+          "body": "Coletamos os dados que você nos fornece ao se cadastrar (nome, e-mail) e registros da atividade da sua conta, como depósitos, saques e lançamentos no extrato."
+        },
+        "use": {
+          "heading": "Como as utilizamos",
+          "body": "Para operar a sua conta, processar transações, enviar e-mails de serviço (como atualizações de saques), proteger a plataforma e cumprir obrigações legais."
+        },
+        "sharing": {
+          "heading": "Compartilhamento",
+          "body": "Não vendemos os seus dados pessoais. Compartilhamos apenas com prestadores de serviço que nos ajudam a operar a plataforma (por exemplo, hospedagem e envio de e-mails) ou quando a lei exigir."
+        },
+        "rights": {
+          "heading": "Os seus direitos",
+          "body": "Você pode entrar em contato com o suporte para solicitar o acesso, a correção ou a exclusão dos seus dados pessoais."
+        }
+      }
+    },
+    "risk": {
+      "title": "Aviso de Risco Forex",
+      "sections": {
+        "highRisk": {
+          "heading": "Negociar envolve um alto nível de risco",
+          "body": "Negociar câmbio, ações, criptoativos e outros produtos alavancados envolve risco substancial e não é adequado a todas as pessoas. Você pode perder parte ou a totalidade do capital investido."
+        },
+        "noGuarantee": {
+          "heading": "Sem garantia de retorno",
+          "body": "O desempenho passado não é um indicador confiável de resultados futuros. Quaisquer valores exibidos neste site são ilustrativos e não representam promessa nem garantia de lucro."
+        },
+        "affordToLose": {
+          "heading": "Invista apenas o que você pode perder",
+          "body": "Antes de investir, considere os seus objetivos, a sua experiência e a sua situação financeira e procure aconselhamento financeiro independente se tiver dúvidas."
+        },
+        "marketRisk": {
+          "heading": "Risco de mercado e de liquidez",
+          "body": "Os preços podem variar de forma rápida e imprevisível. As condições de mercado podem atrasar ou impedir a execução de transações."
+        }
+      }
+    }
+  }
+}

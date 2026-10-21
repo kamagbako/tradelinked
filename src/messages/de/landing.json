@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "title": "TradeLinked — Smarter handeln, Portfolio ausbauen",
+    "description": "TradeLinked ist ein sicheres Handels- und Investmentportal mit Echtzeit-Marktzugang, transparenten Kontobüchern und persönlichem Support.",
+    "ogDescription": "Echtzeit-Marktzugang, transparente Kontobücher und persönlicher Support für sicheres Investieren.",
+    "twitterDescription": "Echtzeit-Marktzugang, transparente Kontobücher und persönlicher Support."
+  },
+  "nav": {
+    "about": "Über uns",
+    "howItWorks": "So funktioniert’s",
+    "plans": "Pläne",
+    "payments": "Zahlungen",
+    "security": "Sicherheit",
+    "logIn": "Anmelden",
+    "getStarted": "Loslegen",
+    "toggleMenu": "Menü umschalten"
+  },
+  "footer": {
+    "tagline": "Ein sicheres Handels- und Investmentportal für transparentes Portfolio-Wachstum.",
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "investmentPlans": "Investmentpläne",
+    "security": "Sicherheit",
+    "legal": "Rechtliches",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzerklärung",
+    "riskDisclosure": "Forex-Risikohinweis",
+    "account": "Konto",
+    "logIn": "Anmelden",
+    "register": "Registrieren",
+    "copyright": "© {year} TradeLinked. Alle Rechte vorbehalten. Der Handel ist mit Risiken verbunden; vergangene Wertentwicklungen sind keine Garantie für zukünftige Ergebnisse."
+  },
+  "hero": {
+    "badge": "Regulierte Verwahrung · Verschlüsselung auf Bankniveau",
+    "title": "Smarter handeln. Ihr Portfolio mit Zuversicht <grow>ausbauen</grow>.",
+    "subtitle": "TradeLinked bietet Ihnen Echtzeit-Marktzugang, transparente Kontobücher und ein persönliches Support-Team — alles, was Sie brauchen, um klar und informiert zu investieren.",
+    "createAccount": "Kostenloses Konto erstellen",
+    "viewPlans": "Investmentpläne ansehen",
+    "stats": {
+      "aum": "Verwaltetes Vermögen",
+      "traders": "Aktive Trader",
+      "roi": "Ø monatlicher ROI"
+    }
+  },
+  "about": {
+    "fastProgress": {
+      "title": "Schnelle Fortschritte",
+      "body": "Sehen Sie Einzahlungen, Gewinne und Auszahlungen in Echtzeit in Ihrem Kontobuch. Jede Bewegung wird erfasst, sodass Sie stets wissen, wo Ihr Kontostand steht."
+    },
+    "modernPlatform": {
+      "title": "Eine moderne Plattform",
+      "body": "Ein Ort für Live-Marktdaten, Ihr Portfolio und Support. Mobile-first entwickelt, damit sie auf Ihrem Smartphone ebenso reibungslos läuft wie am Desktop — und sich wie eine App installieren lässt.",
+      "explorePlans": "Pläne entdecken"
+    },
+    "heading": "Über <brand>TradeLinked</brand>",
+    "whoWeAre": "Wer wir sind",
+    "lead": "Ein Handels- und Investmentportal, das auf Transparenz, Geschwindigkeit und direkten Support setzt.",
+    "body": "TradeLinked bietet Kunden Echtzeitzugang zu globalen Märkten, eine lückenlose Nachvollziehbarkeit jeder Kontostandänderung und ein Support-Team, das nur eine Nachricht entfernt ist. Wir halten das Erlebnis einfach: Konto aufladen, Plan aktivieren und das Portfolio in einem übersichtlichen Dashboard verfolgen.",
+    "disclaimer": "Der Handel ist mit Risiken verbunden. Die auf dieser Seite gezeigten Zahlen dienen nur der Veranschaulichung und sind keine Garantie für zukünftige Ergebnisse.",
+    "chartCaption": "Portfolio-Entwicklung · Beispieldaten zur Veranschaulichung",
+    "thisMonth": "Dieser Monat",
+    "anywhereHeading": "Greifen Sie von überall auf alle Ihre Investments zu und verwalten Sie sie",
+    "anywhereBody": "Ihr Dashboard begleitet Sie auf allen Geräten. Installieren Sie TradeLinked auf Ihrem Startbildschirm für den Ein-Tipp-Zugriff auf Live-Märkte, Ihren Kontostand und Ihr Kontobuch.",
+    "getStarted": "Loslegen",
+    "installable": "Installierbar auf iOS und Android"
+  },
+  "howItWorks": {
+    "heading": "So funktioniert TradeLinked",
+    "subtitle": "Ein unkomplizierter Ablauf in vier Schritten — von der Kontoerstellung bis zur Auszahlung.",
+    "stepLabel": "Schritt {step}.",
+    "steps": {
+      "create": {
+        "title": "Konto erstellen",
+        "body": "Registrieren Sie sich in weniger als einer Minute mit Ihrer E-Mail-Adresse. Dashboard, Kontobuch und Support-Zugang stehen bereit, sobald Sie sich anmelden."
+      },
+      "fund": {
+        "title": "Guthaben aufladen",
+        "body": "Öffnen Sie in Ihrem Dashboard die Schnelleinzahlung und senden Sie Geld an die angezeigten Zahlungsdaten. Unser Team schreibt Ihrem Konto den Betrag gut, sobald die Überweisung bestätigt ist."
+      },
+      "activate": {
+        "title": "Plan aktivieren und verfolgen",
+        "body": "Kontaktieren Sie den Support, um den passenden Plan zu aktivieren, und verfolgen Sie anschließend jede Gutschrift und Belastung live in Ihrem Kontobuch."
+      },
+      "withdraw": {
+        "title": "Auszahlen, wenn Sie bereit sind",
+        "body": "Reichen Sie in Ihrem Dashboard einen Auszahlungsantrag ein. Unser Team prüft ihn, und Sie erhalten sofort eine E-Mail, sobald er genehmigt oder abgelehnt wurde."
+      }
+    }
+  },
+  "plans": {
+    "heading": "Investmentpläne",
+    "subtitle": "Wählen Sie einen Plan, der zu Ihren Anlagezielen passt.",
+    "mostPopular": "Am beliebtesten",
+    "perDays": "/ {days} Tage",
+    "contactSupport": "Support kontaktieren und investieren",
+    "drawerTitle": "In {plan} investieren",
+    "drawerBody": "Um mit dem Plan <plan>{name}</plan> zu starten, wenden Sie sich an unser Support-Team. Es führt Sie durch das Aufladen Ihres Kontos und die Aktivierung des Plans.",
+    "chatWhatsApp": "Per WhatsApp chatten",
+    "items": {
+      "starter": {
+        "name": "Starter",
+        "features": {
+          "ticker": "Zugang zum täglichen Markt-Ticker",
+          "email": "E-Mail-Support",
+          "ledger": "Sofortige Kontobuch-Verfolgung"
+        }
+      },
+      "growth": {
+        "name": "Growth",
+        "features": {
+          "withdrawal": "Vorrangige Auszahlungsprüfung",
+          "whatsapp": "WhatsApp-Support",
+          "note": "Persönlicher Kontovermerk"
+        }
+      },
+      "elite": {
+        "name": "Elite",
+        "features": {
+          "manager": "Persönlicher Kundenberater",
+          "payout": "Individuelle Auszahlungsplanung",
+          "priority": "Vorrangige Support-Hotline"
+        }
+      }
+    }
+  },
+  "payments": {
+    "heading": "Akzeptierte Zahlungsmethoden",
+    "subtitle": "Laden Sie Ihr Konto mit gängigen, bequemen Zahlungsoptionen auf. Die genauen Einzahlungsdaten sehen Sie sicher in Ihrem Dashboard.",
+    "bankTransfer": "Banküberweisung"
+  },
+  "security": {
+    "heading": "Auf Sicherheit gebaut",
+    "subtitle": "Ihr Kapital und Ihre Daten sind auf jeder Ebene geschützt.",
+    "features": {
+      "encryption": {
+        "title": "Verschlüsselung auf Bankniveau",
+        "description": "Alle Daten werden bei der Übertragung und im Ruhezustand mit dem branchenüblichen AES-256 verschlüsselt."
+      },
+      "custody": {
+        "title": "Getrennte Verwahrung",
+        "description": "Kundengelder werden jederzeit getrennt vom Betriebskapital gehalten."
+      },
+      "auth": {
+        "title": "Sichere Authentifizierung",
+        "description": "Sitzungsbasierte Authentifizierung mit Sicherheit auf Zeilenebene bei jeder Datenbankabfrage."
+      },
+      "audit": {
+        "title": "Lückenloser Prüfpfad",
+        "description": "Jede Kontostandänderung wird protokolliert und ist in Ihrem Kontobuch nachvollziehbar."
+      }
+    }
+  },
+  "partners": {
+    "heading": "Unsere strategischen Partner",
+    "subtitle": "TradeLinked arbeitet mit mehreren Projekten zusammen und stärkt so unsere globale Marktpräsenz."
+  },
+  "cta": {
+    "heading": "Bereit zum Start?",
+    "body": "Erstellen Sie noch heute Ihr kostenloses Konto und entdecken Sie die Plattform in Ihrem eigenen Tempo.",
+    "button": "Kostenloses Konto erstellen"
+  },
+  "chat": {
+    "dialogLabel": "Kunden-Support-Chat",
+    "title": "Kundensupport",
+    "replyTime": "Antwortet in der Regel innerhalb weniger Minuten",
+    "greeting": "Hallo! Wie kann ich Ihnen heute helfen?",
+    "continueWhatsApp": "Auf WhatsApp fortfahren",
+    "typing": "Der Support schreibt",
+    "placeholder": "Nachricht eingeben…",
+    "inputLabel": "Nachricht eingeben",
+    "send": "Nachricht senden",
+    "close": "Support-Chat schließen",
+    "open": "Support-Chat öffnen",
+    "replyWhatsApp": "Danke für Ihre Nachricht! Unser Support-Team kann dies direkt mit Ihnen auf WhatsApp klären.",
+    "replyLogin": "Danke für Ihre Nachricht! Bitte melden Sie sich an oder registrieren Sie sich, dann unterstützt Sie unser Support-Team von dort aus weiter.",
+    "topics": {
+      "deposit": {
+        "label": "Wie zahle ich ein?",
+        "answer": "Erstellen Sie ein Konto, öffnen Sie Ihr Dashboard und tippen Sie auf Schnelleinzahlung. Senden Sie Geld an die dort angezeigten Daten, und unser Team schreibt Ihrem Konto den Betrag gut, sobald die Überweisung bestätigt ist."
+      },
+      "withdraw": {
+        "label": "Wie funktionieren Auszahlungen?",
+        "answer": "Reichen Sie in Ihrem Dashboard einen Auszahlungsantrag ein. Unser Team prüft ihn, und Sie erhalten eine E-Mail, sobald er genehmigt oder abgelehnt wurde."
+      },
+      "plans": {
+        "label": "Welche Pläne gibt es?",
+        "answer": "Wir bieten die Pläne Starter, Growth und Elite an. Einzahlungsspannen und Leistungen finden Sie im Abschnitt Investmentpläne auf dieser Seite. Kontaktieren Sie anschließend den Support, um einen Plan zu aktivieren."
+      },
+      "person": {
+        "label": "Mit einer Person sprechen",
+        "answer": "Gerne verbinden wir Sie mit unserem Support-Team.",
+        "handoff": "Hallo, ich möchte mit dem Support sprechen."
+      }
+    }
+  },
+  "legal": {
+    "backToRegistration": "Zurück zur Registrierung",
+    "lastUpdated": "Zuletzt aktualisiert: {updated}",
+    "updated": "September 2026",
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "sections": {
+        "acceptance": {
+          "heading": "1. Annahme",
+          "body": "Mit der Erstellung eines Kontos stimmen Sie diesen Bedingungen zu. Wenn Sie nicht zustimmen, nutzen Sie die Plattform nicht."
+        },
+        "account": {
+          "heading": "2. Ihr Konto",
+          "body": "Sie müssen korrekte Angaben machen und Ihre Zugangsdaten vertraulich behandeln. Sie sind für alle Aktivitäten in Ihrem Konto verantwortlich."
+        },
+        "transactions": {
+          "heading": "3. Ein- und Auszahlungen",
+          "body": "Einzahlungen werden gutgeschrieben, nachdem unser Team den Eingang bestätigt hat. Auszahlungsanträge werden vor der Genehmigung geprüft und können aus Gründen der Verifizierung, der Sicherheit oder der Compliance abgelehnt oder verzögert werden."
+        },
+        "restrictions": {
+          "heading": "4. Kontobeschränkungen",
+          "body": "Wir können Konten sperren oder schließen, die gegen diese Bedingungen verstoßen oder bei denen wir begründet einen Missbrauch vermuten."
+        },
+        "changes": {
+          "heading": "5. Änderungen",
+          "body": "Wir können diese Bedingungen aktualisieren. Wenn Sie die Plattform weiter nutzen, akzeptieren Sie die aktualisierte Fassung."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "sections": {
+        "collect": {
+          "heading": "Welche Daten wir erheben",
+          "body": "Wir erheben die Angaben, die Sie uns bei der Registrierung mitteilen (Name, E-Mail), sowie Aufzeichnungen Ihrer Kontoaktivität wie Einzahlungen, Auszahlungen und Kontobuch-Einträge."
+        },
+        "use": {
+          "heading": "Wie wir sie verwenden",
+          "body": "Um Ihr Konto zu betreiben, Transaktionen zu verarbeiten, Service-E-Mails (etwa zu Auszahlungen) zu versenden, die Plattform abzusichern und gesetzliche Pflichten zu erfüllen."
+        },
+        "sharing": {
+          "heading": "Weitergabe",
+          "body": "Wir verkaufen Ihre personenbezogenen Daten nicht. Wir geben sie nur an Dienstleister weiter, die uns beim Betrieb der Plattform unterstützen (zum Beispiel Hosting und E-Mail-Versand), oder wenn das Gesetz es verlangt."
+        },
+        "rights": {
+          "heading": "Ihre Rechte",
+          "body": "Sie können den Support kontaktieren, um Auskunft über Ihre personenbezogenen Daten sowie deren Berichtigung oder Löschung zu verlangen."
+        }
+      }
+    },
+    "risk": {
+      "title": "Forex-Risikohinweis",
+      "sections": {
+        "highRisk": {
+          "heading": "Der Handel birgt ein hohes Risiko",
+          "body": "Der Handel mit Devisen, Aktien, Krypto-Assets und anderen gehebelten Produkten ist mit erheblichen Risiken verbunden und nicht für jeden geeignet. Sie können Ihr eingesetztes Kapital teilweise oder vollständig verlieren."
+        },
+        "noGuarantee": {
+          "heading": "Keine Renditegarantie",
+          "body": "Vergangene Wertentwicklungen sind kein verlässlicher Indikator für zukünftige Ergebnisse. Alle auf dieser Website gezeigten Zahlen dienen nur der Veranschaulichung und sind weder ein Versprechen noch eine Garantie für Gewinne."
+        },
+        "affordToLose": {
+          "heading": "Investieren Sie nur, was Sie zu verlieren bereit sind",
+          "body": "Berücksichtigen Sie vor dem Investieren Ihre Ziele, Erfahrungen und Ihre finanzielle Situation und holen Sie unabhängigen Finanzrat ein, wenn Sie unsicher sind."
+        },
+        "marketRisk": {
+          "heading": "Markt- und Liquiditätsrisiko",
+          "body": "Preise können sich schnell und unvorhersehbar bewegen. Marktbedingungen können die Ausführung von Transaktionen verzögern oder verhindern."
+        }
+      }
+    }
+  }
+}

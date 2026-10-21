@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "title": "TradeLinked — 更智慧的交易，更稳健的资产增长",
+    "description": "TradeLinked 是一个安全的交易与投资门户，提供实时市场接入、透明账本和专属客服支持。",
+    "ogDescription": "实时市场接入、透明账本和专属客服支持，助您从容投资。",
+    "twitterDescription": "实时市场接入、透明账本和专属客服支持。"
+  },
+  "nav": {
+    "about": "关于我们",
+    "howItWorks": "使用流程",
+    "plans": "投资计划",
+    "payments": "支付方式",
+    "security": "安全保障",
+    "logIn": "登录",
+    "getStarted": "立即开始",
+    "toggleMenu": "切换菜单"
+  },
+  "footer": {
+    "tagline": "安全的交易与投资门户，助力透明的资产增长。",
+    "company": "公司",
+    "about": "关于我们",
+    "investmentPlans": "投资计划",
+    "security": "安全保障",
+    "legal": "法律",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "riskDisclosure": "外汇风险披露",
+    "account": "账户",
+    "logIn": "登录",
+    "register": "注册",
+    "copyright": "© {year} TradeLinked。保留所有权利。交易存在风险，过往业绩不代表未来表现。"
+  },
+  "hero": {
+    "badge": "受监管的托管 · 银行级加密",
+    "title": "更智慧的交易，从容<grow>增长</grow>您的投资组合。",
+    "subtitle": "TradeLinked 为您提供实时市场接入、透明账本和专属客服团队——让您清晰、有把握地投资。",
+    "createAccount": "免费创建账户",
+    "viewPlans": "查看投资计划",
+    "stats": {
+      "aum": "管理资产规模",
+      "traders": "活跃交易者",
+      "roi": "平均月收益率"
+    }
+  },
+  "about": {
+    "fastProgress": {
+      "title": "进展迅速",
+      "body": "存款、收益和提款会实时反映在您的账本中。每一笔变动都有记录，让您随时掌握余额状况。"
+    },
+    "modernPlatform": {
+      "title": "现代化平台",
+      "body": "实时市场数据、投资组合和客服支持，一站式集成。采用移动优先设计，在手机上与在电脑上同样流畅，还可像应用一样安装。",
+      "explorePlans": "了解计划"
+    },
+    "heading": "关于 <brand>TradeLinked</brand>",
+    "whoWeAre": "我们是谁",
+    "lead": "一个以透明、高效和直接支持为核心的交易与投资门户。",
+    "body": "TradeLinked 让客户实时接入全球市场，每一笔余额变动都有完整的审计记录，客服团队随时响应您的消息。我们让体验保持简单：为账户充值、激活计划，并在一个清晰的控制台中查看您的投资组合。",
+    "disclaimer": "交易存在风险。本页面所示数字仅供说明，不构成对未来结果的保证。",
+    "chartCaption": "投资组合表现 · 示例数据，仅供说明",
+    "thisMonth": "本月",
+    "anywhereHeading": "随时随地访问和管理您的全部投资",
+    "anywhereBody": "您的控制台可跨设备使用。将 TradeLinked 安装到主屏幕，一键即可查看实时行情、余额和账本。",
+    "getStarted": "立即开始",
+    "installable": "支持在 iOS 和 Android 上安装"
+  },
+  "howItWorks": {
+    "heading": "TradeLinked 如何运作",
+    "subtitle": "四个简单步骤——从创建账户到提取资金。",
+    "stepLabel": "第 {step} 步。",
+    "steps": {
+      "create": {
+        "title": "创建账户",
+        "body": "使用电子邮箱在一分钟内完成注册。登录后即可使用控制台、账本和客服支持。"
+      },
+      "fund": {
+        "title": "为账户充值",
+        "body": "在控制台中打开“快速存款”，按显示的付款信息转账。转账确认后，我们的团队会为您的账户入账。"
+      },
+      "activate": {
+        "title": "激活计划并跟踪收益",
+        "body": "联系客服激活适合您的计划，然后在实时账本中查看每一笔入账和扣款。"
+      },
+      "withdraw": {
+        "title": "随时提款",
+        "body": "在控制台提交提款申请，由我们的团队审核，批准或拒绝后会第一时间通过邮件通知您。"
+      }
+    }
+  },
+  "plans": {
+    "heading": "投资计划",
+    "subtitle": "选择符合您投资目标的计划。",
+    "mostPopular": "最受欢迎",
+    "perDays": "/ {days} 天",
+    "contactSupport": "联系客服投资",
+    "drawerTitle": "投资 {plan}",
+    "drawerBody": "如需开始使用 <plan>{name}</plan> 计划，请联系我们的客服团队。他们将指导您为账户充值并激活计划。",
+    "chatWhatsApp": "通过 WhatsApp 聊天",
+    "items": {
+      "starter": {
+        "name": "Starter",
+        "features": {
+          "ticker": "每日行情报价查看",
+          "email": "邮件支持",
+          "ledger": "即时账本跟踪"
+        }
+      },
+      "growth": {
+        "name": "Growth",
+        "features": {
+          "withdrawal": "优先审核提款",
+          "whatsapp": "WhatsApp 支持",
+          "note": "专属账户备注"
+        }
+      },
+      "elite": {
+        "name": "Elite",
+        "features": {
+          "manager": "专属客户经理",
+          "payout": "自定义收益发放安排",
+          "priority": "优先客服专线"
+        }
+      }
+    }
+  },
+  "payments": {
+    "heading": "支持的支付方式",
+    "subtitle": "使用常见、便捷的支付方式为账户充值。具体的存款信息将在您的控制台中安全显示。",
+    "bankTransfer": "银行转账"
+  },
+  "security": {
+    "heading": "以安全为基石",
+    "subtitle": "您的资金和数据在每一层都受到保护。",
+    "features": {
+      "encryption": {
+        "title": "银行级加密",
+        "description": "所有传输中和静态存储的数据均采用业界标准的 AES-256 加密。"
+      },
+      "custody": {
+        "title": "资金隔离托管",
+        "description": "客户资金始终与运营资金分开存放。"
+      },
+      "auth": {
+        "title": "安全认证",
+        "description": "基于会话的认证，并对每次数据库查询实施行级安全控制。"
+      },
+      "audit": {
+        "title": "完整审计记录",
+        "description": "每一笔余额变动都会被记录，并可在账本历史中追溯。"
+      }
+    }
+  },
+  "partners": {
+    "heading": "我们的战略合作伙伴",
+    "subtitle": "TradeLinked 已与多个项目建立合作，进一步增强了我们在全球市场的影响力。"
+  },
+  "cta": {
+    "heading": "准备好开始了吗？",
+    "body": "立即免费创建账户，按自己的节奏探索平台。",
+    "button": "免费创建账户"
+  },
+  "chat": {
+    "dialogLabel": "客服聊天",
+    "title": "客服支持",
+    "replyTime": "通常几分钟内回复",
+    "greeting": "您好！请问有什么可以帮您？",
+    "continueWhatsApp": "在 WhatsApp 上继续",
+    "typing": "客服正在输入",
+    "placeholder": "输入消息…",
+    "inputLabel": "输入消息",
+    "send": "发送消息",
+    "close": "关闭客服聊天",
+    "open": "打开客服聊天",
+    "replyWhatsApp": "感谢您的留言！我们的客服团队可以直接通过 WhatsApp 与您跟进。",
+    "replyLogin": "感谢您的留言！请登录或注册，我们的客服团队将随后为您提供协助。",
+    "topics": {
+      "deposit": {
+        "label": "如何存款？",
+        "answer": "创建账户后进入控制台，点击“快速存款”。按页面显示的信息转账，转账确认后，我们的团队会为您的账户入账。"
+      },
+      "withdraw": {
+        "label": "提款如何进行？",
+        "answer": "在控制台提交提款申请。我们的团队会进行审核，批准或拒绝后您将立即收到邮件通知。"
+      },
+      "plans": {
+        "label": "有哪些可选计划？",
+        "answer": "我们提供 Starter、Growth 和 Elite 计划。请查看本页面的“投资计划”部分了解存款区间和权益，然后联系客服激活。"
+      },
+      "person": {
+        "label": "联系人工客服",
+        "answer": "很乐意为您转接客服团队。",
+        "handoff": "您好，我想联系客服。"
+      }
+    }
+  },
+  "legal": {
+    "backToRegistration": "返回注册",
+    "lastUpdated": "最后更新：{updated}",
+    "updated": "2026 年 9 月",
+    "terms": {
+      "title": "服务条款",
+      "sections": {
+        "acceptance": {
+          "heading": "1. 接受条款",
+          "body": "创建账户即表示您同意本条款。如果您不同意，请勿使用本平台。"
+        },
+        "account": {
+          "heading": "2. 您的账户",
+          "body": "您必须提供准确的信息，并对登录凭据保密。您须对账户下的所有活动负责。"
+        },
+        "transactions": {
+          "heading": "3. 存款与提款",
+          "body": "存款将在我们的团队确认收款后入账。提款申请须经审核后方可批准，并可能因验证、安全或合规原因被拒绝或延迟。"
+        },
+        "restrictions": {
+          "heading": "4. 账户限制",
+          "body": "对于违反本条款，或我们有合理理由怀疑被滥用的账户，我们可能予以冻结或关闭。"
+        },
+        "changes": {
+          "heading": "5. 条款变更",
+          "body": "我们可能更新本条款。继续使用本平台即表示您接受更新后的版本。"
+        }
+      }
+    },
+    "privacy": {
+      "title": "隐私政策",
+      "sections": {
+        "collect": {
+          "heading": "我们收集的信息",
+          "body": "我们收集您在注册时提供的信息（姓名、电子邮箱），以及您的账户活动记录，例如存款、提款和账本条目。"
+        },
+        "use": {
+          "heading": "信息的使用方式",
+          "body": "用于运营您的账户、处理交易、发送服务邮件（如提款进度通知）、保障平台安全以及履行法律义务。"
+        },
+        "sharing": {
+          "heading": "信息共享",
+          "body": "我们不会出售您的个人数据。我们仅会与协助我们运营平台的服务提供商（例如托管和邮件发送服务）共享，或在法律要求时共享。"
+        },
+        "rights": {
+          "heading": "您的权利",
+          "body": "您可以联系客服，请求访问、更正或删除您的个人数据。"
+        }
+      }
+    },
+    "risk": {
+      "title": "外汇风险披露",
+      "sections": {
+        "highRisk": {
+          "heading": "交易具有高风险",
+          "body": "外汇、股票、加密资产及其他杠杆产品的交易涉及重大风险，并不适合所有人。您可能损失部分或全部投资本金。"
+        },
+        "noGuarantee": {
+          "heading": "不保证收益",
+          "body": "过往业绩并非未来结果的可靠指标。本网站所示的任何数字仅供说明，不构成对盈利的承诺或保证。"
+        },
+        "affordToLose": {
+          "heading": "仅投资您能承受损失的资金",
+          "body": "投资前，请考虑您的目标、经验和财务状况；如有疑问，请寻求独立的财务建议。"
+        },
+        "marketRisk": {
+          "heading": "市场与流动性风险",
+          "body": "价格可能快速且不可预测地波动。市场状况可能延迟或阻碍交易的执行。"
+        }
+      }
+    }
+  }
+}

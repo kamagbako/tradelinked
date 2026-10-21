@@ -1,0 +1,32 @@
+{
+  "languageLabel": "Langue",
+  "passwordRules": {
+    "length": "Au moins {min} caractères",
+    "letter": "Contient une lettre",
+    "number": "Contient un chiffre"
+  },
+  "showPassword": "Afficher le mot de passe",
+  "hidePassword": "Masquer le mot de passe",
+  "toggleTheme": "Basculer entre le mode clair et le mode sombre",
+  "toggleThemeTitle": "Basculer entre mode clair / sombre",
+  "close": "Fermer",
+  "noRecords": "Aucun enregistrement pour le moment.",
+  "errors": {
+    "unexpected": "Une erreur s’est produite. Veuillez réessayer."
+  },
+  "errorBoundary": {
+    "title": "Une erreur s’est produite",
+    "description": "Une erreur inattendue est survenue. Vous pouvez réessayer ou revenir à une page sûre.",
+    "tryAgain": "Réessayer",
+    "goHome": "Aller à l’accueil",
+    "goToDashboard": "Aller au tableau de bord",
+    "goToAdmin": "Aller à l’aperçu admin",
+    "reference": "Référence : {digest}",
+    "widgetFailed": "Cette section n’a pas pu être chargée."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "description": "La page que vous cherchez n’existe pas ou a été déplacée.",
+    "backHome": "Retour à l’accueil"
+  }
+}

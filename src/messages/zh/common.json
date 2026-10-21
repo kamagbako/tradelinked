@@ -1,0 +1,32 @@
+{
+  "languageLabel": "语言",
+  "passwordRules": {
+    "length": "至少 {min} 个字符",
+    "letter": "包含字母",
+    "number": "包含数字"
+  },
+  "showPassword": "显示密码",
+  "hidePassword": "隐藏密码",
+  "toggleTheme": "切换浅色和深色模式",
+  "toggleThemeTitle": "切换浅色 / 深色模式",
+  "close": "关闭",
+  "noRecords": "暂无记录。",
+  "errors": {
+    "unexpected": "出了点问题，请重试。"
+  },
+  "errorBoundary": {
+    "title": "出了点问题",
+    "description": "发生了意外错误。您可以重试，或返回安全页面。",
+    "tryAgain": "重试",
+    "goHome": "返回首页",
+    "goToDashboard": "前往控制台",
+    "goToAdmin": "前往管理概览",
+    "reference": "参考编号：{digest}",
+    "widgetFailed": "此部分无法加载。"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "description": "您访问的页面不存在或已被移动。",
+    "backHome": "返回首页"
+  }
+}

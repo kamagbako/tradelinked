@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "transactions": "Transactions",
+    "messages": "Messages",
+    "twoFactor": "2FA Setting",
+    "profile": "Profile",
+    "changePassword": "Change Password",
+    "plans": "Plans"
+  },
+  "shell": {
+    "navLabel": "Dashboard",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "adminPanel": "Admin panel",
+    "logout": "Logout"
+  },
+  "avatarMenu": {
+    "accountMenu": "Account menu",
+    "yourAccount": "Your account",
+    "profile": "Profile",
+    "changePassword": "Change password",
+    "adminPanel": "Admin panel",
+    "logOut": "Log out"
+  },
+  "mobileNav": {
+    "main": "Main",
+    "more": "More",
+    "moreMenu": "More menu",
+    "menu": "Menu",
+    "admin": "Admin",
+    "theme": "Theme",
+    "logOut": "Log out",
+    "language": "Language",
+    "tabs": {
+      "home": "Home",
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "history": "History"
+    }
+  },
+  "sidebarBalance": {
+    "accountBalance": "Account balance",
+    "notificationTitle": "TradeLinked balance updated",
+    "notificationBody": "Your available balance is now {amount}."
+  },
+  "home": {
+    "deposits": {
+      "title": "Successful Deposits",
+      "footer": "You've submitted {total, plural, one {# deposit} other {# deposits}}: {approved} approved, {pending} pending and {rejected} rejected."
+    },
+    "withdrawals": {
+      "title": "Successful Withdrawals",
+      "footer": "You've requested {total, plural, one {# withdrawal} other {# withdrawals}}: {completed} completed, {pending} pending and {rejected} rejected."
+    },
+    "earnings": {
+      "title": "Total Earnings",
+      "footerActive": "Your {plan} plan is active. Profit is credited to your ledger as it is earned.",
+      "footerNone": "You have no active plan yet. Pick one from the Plans page to get started."
+    },
+    "columns": {
+      "submitted": "Submitted",
+      "pending": "Pending",
+      "rejected": "Rejected",
+      "available": "Available",
+      "deposited": "Deposited",
+      "plan": "Plan"
+    },
+    "none": "None",
+    "marketStats": "Crypto Market Stats"
+  },
+  "banners": {
+    "notifications": {
+      "resetTitle": "Reset browser notifications",
+      "allowTitle": "Please allow browser notifications",
+      "deniedBody": "Notifications are blocked. Re-enable them for this site in your browser settings to get balance alerts.",
+      "allowBody": "Get an alert whenever your balance changes — you'll be asked to confirm in your browser.",
+      "allowButton": "Allow notifications"
+    },
+    "twoFactor": {
+      "title": "2FA Authentication",
+      "body": "To keep your account safe, please <link>enable 2FA</link>. It makes your account and balance more secure."
+    },
+    "plans": {
+      "activeTitle": "Your plan: {plan}",
+      "noneTitle": "You haven't picked a plan yet",
+      "body": "Browse the investment plans and activate the one that fits your available balance.",
+      "changeButton": "Change plan",
+      "chooseButton": "Choose a plan"
+    }
+  },
+  "copyRow": {
+    "copy": "Copy {label}"
+  },
+  "portfolio": {
+    "availableBalance": "Available Balance",
+    "totalProfit": "Total Profit",
+    "activePlan": "Active Plan",
+    "none": "None"
+  },
+  "deposit": {
+    "heading": "Deposit",
+    "notSetUp": "Deposit details haven't been set up yet. Please contact support.",
+    "yourDeposits": "Your deposits",
+    "empty": "You haven't submitted any deposits yet.",
+    "details": {
+      "btcAddress": "Bitcoin deposit address"
+    },
+    "form": {
+      "title": "Deposit Bitcoin",
+      "intro": "Enter how much you’d like to deposit. We’ll show the total to send in Bitcoin, including our processing fee, to the address above.",
+      "amount": "Amount (USD)",
+      "qrAlt": "QR code for the Bitcoin deposit address",
+      "qrCaption": "Or scan with your wallet app",
+      "limit": "Limit",
+      "processingCharge": "Processing charge",
+      "processingChargeHint": "Covers network and processing costs for Bitcoin deposits.",
+      "total": "Total to send",
+      "reference": "Transaction hash / reference (optional)",
+      "referencePlaceholder": "Helps us find your payment faster",
+      "success": "Deposit submitted. It will show as pending until we verify it.",
+      "submit": "Deposit Confirm"
+    }
+  },
+  "withdraw": {
+    "heading": "Withdraw",
+    "yourWithdrawals": "Your withdrawals",
+    "empty": "You haven't requested any withdrawals yet.",
+    "form": {
+      "title": "Request Withdrawal",
+      "amount": "Amount (USD)",
+      "method": "Payout method",
+      "selectMethod": "Select a method",
+      "details": "Payout details",
+      "detailsPlaceholder": "Bank account details or wallet address",
+      "success": "Withdrawal request submitted. We'll email you once it's reviewed.",
+      "submit": "Submit Request"
+    }
+  },
+  "requestHistory": {
+    "columns": {
+      "amount": "Amount",
+      "method": "Method",
+      "status": "Status",
+      "details": "Details",
+      "date": "Date"
+    }
+  },
+  "transactions": {
+    "heading": "Transactions",
+    "filterLabel": "Filter transactions",
+    "empty": "No transactions yet.",
+    "depositLabel": "Deposit · {method}",
+    "withdrawalLabel": "Withdrawal · {method}",
+    "filters": {
+      "all": "All",
+      "deposit": "Deposits",
+      "withdrawal": "Withdrawals",
+      "ledger": "Profit & adjustments"
+    },
+    "columns": {
+      "amount": "Amount",
+      "transaction": "Transaction",
+      "status": "Status",
+      "date": "Date"
+    }
+  },
+  "messages": {
+    "heading": "Messages",
+    "intro": "Chat directly with our support team about your account.",
+    "placeholder": "Type a message…",
+    "empty": "No messages yet. Send one and our team will get back to you.",
+    "send": "Send message"
+  },
+  "statuses": {
+    "PENDING": "PENDING",
+    "APPROVED": "APPROVED",
+    "COMPLETED": "COMPLETED",
+    "REJECTED": "REJECTED",
+    "CREDIT": "CREDIT",
+    "DEBIT": "DEBIT",
+    "PROFIT_YIELD": "PROFIT YIELD"
+  },
+  "methods": {
+    "BANK_TRANSFER": "Bank Transfer",
+    "BTC": "Bitcoin (BTC)",
+    "USDT": "USDT"
+  },
+  "twoFactor": {
+    "loading": "Loading your security settings…",
+    "onTitle": "2FA is on",
+    "onBody": "You'll enter a code from your authenticator app each time you log in.",
+    "turnOff": "Turn off 2FA",
+    "offTitle": "Protect your account with 2FA",
+    "offBody": "Use an authenticator app such as Google Authenticator, Microsoft Authenticator or Authy to generate a one-time code at login.",
+    "setUp": "Set up 2FA",
+    "scanStep": "Scan this QR code with your authenticator app.",
+    "qrAlt": "2FA QR code",
+    "manualKey": "Or enter this key manually",
+    "codeStep": "Enter the 6-digit code it shows",
+    "codePlaceholder": "123456",
+    "verify": "Verify and enable",
+    "cancel": "Cancel",
+    "errors": {
+      "startFailed": "Could not start 2FA setup.",
+      "badCode": "That code didn't work. Check the code in your authenticator app and try again."
+    }
+  },
+  "profile": {
+    "heading": "Profile Setting",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phone": "Phone",
+    "country": "Country",
+    "state": "State",
+    "zipCode": "Zip code",
+    "city": "City",
+    "email": "Email",
+    "address": "Address",
+    "submit": "Submit",
+    "success": "Profile updated."
+  },
+  "changePassword": {
+    "current": "Current password",
+    "new": "New password",
+    "confirm": "Confirm new password",
+    "match": "Passwords match.",
+    "mismatch": "Passwords do not match.",
+    "success": "Password updated.",
+    "submit": "Update password"
+  },
+  "errors": {
+    "signedIn": "You must be signed in.",
+    "depositAmount": "Enter the amount you deposited.",
+    "withdrawalAmount": "Enter a valid withdrawal amount.",
+    "payoutRequired": "Payout method and details are required.",
+    "namesRequired": "Your first and last name are required.",
+    "currentPasswordRequired": "Enter your current password.",
+    "passwordWeak": "New password must be 8+ characters and include a letter and a number.",
+    "passwordMismatch": "New passwords do not match.",
+    "passwordSame": "Choose a password different from your current one.",
+    "currentPasswordIncorrect": "Your current password is incorrect.",
+    "planNotFound": "That plan could not be found.",
+    "planBelowMinimum": "Your available balance is below this plan's minimum deposit of {amount}.",
+    "depositOutsideLimits": "Enter an amount between {min} and {max}.",
+    "messageBody": "Enter a message to send.",
+    "messageTooLong": "Message is too long. Keep it under 4000 characters."
+  },
+  "plans": {
+    "heading": "Investment Plans",
+    "subtitle": "Pick the plan that matches how much you have available to invest.",
+    "perDays": "/ {days} days",
+    "mostPopular": "Most popular",
+    "current": "Current plan",
+    "currentButton": "Current plan",
+    "activate": "Activate this plan",
+    "switch": "Switch to this plan",
+    "locked": "Deposit at least {amount} to unlock this plan.",
+    "depositCta": "Make a deposit",
+    "success": "{plan} plan activated."
+  }
+}

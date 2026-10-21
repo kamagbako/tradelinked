@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "title": "TradeLinked — Trade Smarter, Grow Your Portfolio",
+    "description": "TradeLinked is a secure trading and investment portal offering real-time market access, transparent ledgers, and dedicated support.",
+    "ogDescription": "Real-time market access, transparent ledgers, and dedicated support for confident investing.",
+    "twitterDescription": "Real-time market access, transparent ledgers, and dedicated support."
+  },
+  "nav": {
+    "about": "About",
+    "howItWorks": "How it works",
+    "plans": "Plans",
+    "payments": "Payments",
+    "security": "Security",
+    "logIn": "Log in",
+    "getStarted": "Get Started",
+    "toggleMenu": "Toggle menu"
+  },
+  "footer": {
+    "tagline": "A secure trading and investment portal built for transparent portfolio growth.",
+    "company": "Company",
+    "about": "About",
+    "investmentPlans": "Investment Plans",
+    "security": "Security",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "riskDisclosure": "Forex Risk Disclosure",
+    "account": "Account",
+    "logIn": "Log in",
+    "register": "Register",
+    "copyright": "© {year} TradeLinked. All rights reserved. Trading involves risk; past performance does not guarantee future results."
+  },
+  "hero": {
+    "badge": "Regulated custody · Bank-grade encryption",
+    "title": "Trade smarter. <grow>Grow</grow> your portfolio with confidence.",
+    "subtitle": "TradeLinked gives you real-time market access, transparent ledgers, and a dedicated support team — everything you need to invest with clarity.",
+    "createAccount": "Create Free Account",
+    "viewPlans": "View Investment Plans",
+    "stats": {
+      "aum": "Assets under management",
+      "traders": "Active traders",
+      "roi": "Avg. monthly ROI"
+    }
+  },
+  "about": {
+    "fastProgress": {
+      "title": "Fast progress",
+      "body": "See deposits, profits and withdrawals reflected in your ledger in real time. Every movement is recorded, so you always know where your balance stands."
+    },
+    "modernPlatform": {
+      "title": "A modern platform",
+      "body": "One place for live market data, your portfolio and support. Built mobile-first, so it works as smoothly on your phone as on your desktop — and installs like an app.",
+      "explorePlans": "Explore plans"
+    },
+    "heading": "About <brand>TradeLinked</brand>",
+    "whoWeAre": "Who we are",
+    "lead": "A trading and investment portal built around transparency, speed and direct support.",
+    "body": "TradeLinked gives clients real-time access to global markets, a full audit trail for every balance change, and a support team that is a message away. We keep the experience simple: fund your account, activate a plan, and watch your portfolio in one clear dashboard.",
+    "disclaimer": "Trading involves risk. Figures shown on this page are illustrative and are not a guarantee of future results.",
+    "chartCaption": "Portfolio performance · sample data for illustration",
+    "thisMonth": "This month",
+    "anywhereHeading": "Access and manage all your investments from anywhere",
+    "anywhereBody": "Your dashboard follows you across devices. Install TradeLinked to your home screen for one-tap access to live markets, your balance and your ledger.",
+    "getStarted": "Get started",
+    "installable": "Installable on iOS and Android"
+  },
+  "howItWorks": {
+    "heading": "How TradeLinked works",
+    "subtitle": "A straightforward process in four steps — from creating your account to withdrawing funds.",
+    "stepLabel": "Step {step}.",
+    "steps": {
+      "create": {
+        "title": "Create your account",
+        "body": "Register with your email in under a minute. Your dashboard, ledger and support access are ready as soon as you sign in."
+      },
+      "fund": {
+        "title": "Fund your balance",
+        "body": "Open Quick Deposit in your dashboard and send funds using the payment details shown. Our team credits your balance once the transfer is confirmed."
+      },
+      "activate": {
+        "title": "Activate a plan and track it",
+        "body": "Contact support to activate the plan that suits you, then follow every credit and debit in your live ledger as it happens."
+      },
+      "withdraw": {
+        "title": "Withdraw when you're ready",
+        "body": "Submit a withdrawal request from your dashboard. It is reviewed by our team and you are emailed the moment it is approved or declined."
+      }
+    }
+  },
+  "plans": {
+    "heading": "Investment Plans",
+    "subtitle": "Choose a plan that fits your investment goals.",
+    "mostPopular": "Most popular",
+    "perDays": "/ {days} days",
+    "contactSupport": "Contact Support to Invest",
+    "drawerTitle": "Invest in {plan}",
+    "drawerBody": "To get started with the <plan>{name}</plan> plan, reach out to our support team. They will guide you through funding your account and activating the plan.",
+    "chatWhatsApp": "Chat on WhatsApp",
+    "items": {
+      "starter": {
+        "name": "Starter",
+        "features": {
+          "ticker": "Daily market ticker access",
+          "email": "Email support",
+          "ledger": "Instant ledger tracking"
+        }
+      },
+      "growth": {
+        "name": "Growth",
+        "features": {
+          "withdrawal": "Priority withdrawal review",
+          "whatsapp": "WhatsApp support",
+          "note": "Dedicated account note"
+        }
+      },
+      "elite": {
+        "name": "Elite",
+        "features": {
+          "manager": "Personal account manager",
+          "payout": "Custom payout scheduling",
+          "priority": "Priority support line"
+        }
+      }
+    }
+  },
+  "payments": {
+    "heading": "Accepted payment methods",
+    "subtitle": "Fund your account with widely used, convenient payment options. The exact deposit details are shown securely inside your dashboard.",
+    "bankTransfer": "Bank transfer"
+  },
+  "security": {
+    "heading": "Built on Security",
+    "subtitle": "Your capital and data are protected at every layer.",
+    "features": {
+      "encryption": {
+        "title": "Bank-grade encryption",
+        "description": "All data in transit and at rest is encrypted with industry-standard AES-256."
+      },
+      "custody": {
+        "title": "Segregated custody",
+        "description": "Client funds are held separately from operating capital at all times."
+      },
+      "auth": {
+        "title": "Secure authentication",
+        "description": "Session-based auth with row-level security on every database query."
+      },
+      "audit": {
+        "title": "Full audit trail",
+        "description": "Every balance change is logged and traceable in your ledger history."
+      }
+    }
+  },
+  "partners": {
+    "heading": "Our strategic partners",
+    "subtitle": "TradeLinked has partnered with multiple projects, enhancing our global market presence."
+  },
+  "cta": {
+    "heading": "Ready to start?",
+    "body": "Create your free account today and explore the platform at your own pace.",
+    "button": "Create Free Account"
+  },
+  "chat": {
+    "dialogLabel": "Customer support chat",
+    "title": "Customer Support",
+    "replyTime": "Typically replies within minutes",
+    "greeting": "Hello! How can I help you today?",
+    "continueWhatsApp": "Continue on WhatsApp",
+    "typing": "Support is typing",
+    "placeholder": "Type a message…",
+    "inputLabel": "Type a message",
+    "send": "Send message",
+    "close": "Close support chat",
+    "open": "Open support chat",
+    "replyWhatsApp": "Thanks for your message! Our support team can pick this up with you directly on WhatsApp.",
+    "replyLogin": "Thanks for your message! Please log in or register and our support team will assist you from there.",
+    "topics": {
+      "deposit": {
+        "label": "How do I deposit?",
+        "answer": "Create an account, open your dashboard and tap Quick Deposit. Send funds using the details shown there, and our team credits your balance once the transfer is confirmed."
+      },
+      "withdraw": {
+        "label": "How do withdrawals work?",
+        "answer": "Submit a withdrawal request from your dashboard. Our team reviews it and you'll get an email as soon as it is approved or declined."
+      },
+      "plans": {
+        "label": "Which plans are available?",
+        "answer": "We offer Starter, Growth and Elite plans. See the Investment Plans section on this page for deposit ranges and features, then contact support to activate one."
+      },
+      "person": {
+        "label": "Talk to a person",
+        "answer": "Happy to connect you with our support team.",
+        "handoff": "Hello, I'd like to speak to support."
+      }
+    }
+  },
+  "legal": {
+    "backToRegistration": "Back to registration",
+    "lastUpdated": "Last updated {updated}",
+    "updated": "September 2026",
+    "terms": {
+      "title": "Terms of Service",
+      "sections": {
+        "acceptance": {
+          "heading": "1. Acceptance",
+          "body": "By creating an account you agree to these Terms. If you do not agree, do not use the platform."
+        },
+        "account": {
+          "heading": "2. Your account",
+          "body": "You must provide accurate information and keep your login credentials confidential. You are responsible for all activity on your account."
+        },
+        "transactions": {
+          "heading": "3. Deposits and withdrawals",
+          "body": "Deposits are credited after our team confirms receipt. Withdrawal requests are reviewed before approval and may be rejected or delayed for verification, security or compliance reasons."
+        },
+        "restrictions": {
+          "heading": "4. Account restrictions",
+          "body": "We may freeze or close accounts that breach these Terms or that we reasonably suspect of misuse."
+        },
+        "changes": {
+          "heading": "5. Changes",
+          "body": "We may update these Terms. Continued use of the platform means you accept the updated version."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "sections": {
+        "collect": {
+          "heading": "Information we collect",
+          "body": "We collect the details you give us when registering (name, email) and records of your account activity such as deposits, withdrawals and ledger entries."
+        },
+        "use": {
+          "heading": "How we use it",
+          "body": "To operate your account, process transactions, send service emails (such as withdrawal updates), secure the platform and meet legal obligations."
+        },
+        "sharing": {
+          "heading": "Sharing",
+          "body": "We do not sell your personal data. We share it only with service providers that help us run the platform (for example hosting and email delivery) or where the law requires."
+        },
+        "rights": {
+          "heading": "Your rights",
+          "body": "You can contact support to request access to, correction of, or deletion of your personal data."
+        }
+      }
+    },
+    "risk": {
+      "title": "Forex Risk Disclosure",
+      "sections": {
+        "highRisk": {
+          "heading": "Trading carries a high level of risk",
+          "body": "Trading foreign exchange, stocks, crypto-assets and other leveraged products involves substantial risk and is not suitable for everyone. You may lose some or all of your invested capital."
+        },
+        "noGuarantee": {
+          "heading": "No guarantee of returns",
+          "body": "Past performance is not a reliable indicator of future results. Any figures shown on this site are illustrative and are not a promise or guarantee of profit."
+        },
+        "affordToLose": {
+          "heading": "Only invest what you can afford to lose",
+          "body": "Before investing, consider your objectives, experience and financial situation, and seek independent financial advice if you are unsure."
+        },
+        "marketRisk": {
+          "heading": "Market and liquidity risk",
+          "body": "Prices can move quickly and unpredictably. Market conditions may delay or prevent the execution of transactions."
+        }
+      }
+    }
+  }
+}

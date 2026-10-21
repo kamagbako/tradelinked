@@ -1,0 +1,94 @@
+@import "tailwindcss";
+@import "react-floating-dock/style.css";
+
+/* `light:` variant, driven by the data-theme attribute set in <html>. */
+@custom-variant light (&:where([data-theme="light"], [data-theme="light"] *));
+
+@theme {
+  /* Tailwind's default emerald-500 (#10b981), blue-500 (#3b82f6), amber-500
+     (#f59e0b) and red-500 (#ef4444) already match this design system's
+     accent colors, so only the neutral surface tokens are added here. */
+  --color-bg: #080c14;
+  --color-surface: #0f172a;
+  --color-border: #1e293b;
+  --color-text: #e2e8f0;
+  --color-text-muted: #94a3b8;
+  --color-hover: rgb(255 255 255 / 0.05);
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --animate-fade-in: fade-in 0.3s ease-out;
+  --animate-slide-up: slide-up 0.25s ease-out;
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes slide-up {
+    from { transform: translateY(100%); }
+    to { transform: translateY(0); }
+  }
+}
+
+/* Light theme: same token names, different values. Dark stays the default. */
+:root {
+  color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  --color-bg: #f8fafc;
+  --color-surface: #ffffff;
+  --color-border: #e2e8f0;
+  --color-text: #0f172a;
+  --color-text-muted: #475569;
+  --color-hover: rgb(15 23 42 / 0.06);
+
+  /* The -400 accents are tuned for dark backgrounds; darken them for contrast on light. */
+  --color-blue-400: #1d4ed8;
+  --color-emerald-400: #047857;
+  --color-red-400: #b91c1c;
+  --color-amber-400: #b45309;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    /* The window's scroll container is <html>; framer-motion's useScroll wants it non-static to measure offsets. */
+    position: relative;
+  }
+
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-bg);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-border);
+    border-radius: 4px;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    background-color: color-mix(in srgb, var(--color-surface) 80%, transparent);
+    border: 1px solid var(--color-border);
+    backdrop-filter: blur(12px);
+  }
+
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}

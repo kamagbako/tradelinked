@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "dashboard": "Panel",
+    "deposit": "Depositar",
+    "withdraw": "Retirar",
+    "transactions": "Transacciones",
+    "messages": "Mensajes",
+    "twoFactor": "Ajustes de 2FA",
+    "profile": "Perfil",
+    "changePassword": "Cambiar contraseña",
+    "plans": "Planes"
+  },
+  "shell": {
+    "navLabel": "Panel",
+    "deposit": "Depositar",
+    "withdraw": "Retirar",
+    "adminPanel": "Panel de administración",
+    "logout": "Cerrar sesión"
+  },
+  "avatarMenu": {
+    "accountMenu": "Menú de la cuenta",
+    "yourAccount": "Su cuenta",
+    "profile": "Perfil",
+    "changePassword": "Cambiar contraseña",
+    "adminPanel": "Panel de administración",
+    "logOut": "Cerrar sesión"
+  },
+  "mobileNav": {
+    "main": "Principal",
+    "more": "Más",
+    "moreMenu": "Menú Más",
+    "menu": "Menú",
+    "admin": "Admin",
+    "theme": "Tema",
+    "logOut": "Cerrar sesión",
+    "language": "Idioma",
+    "tabs": {
+      "home": "Inicio",
+      "deposit": "Depositar",
+      "withdraw": "Retirar",
+      "history": "Historial"
+    }
+  },
+  "sidebarBalance": {
+    "accountBalance": "Saldo de la cuenta",
+    "notificationTitle": "Saldo de TradeLinked actualizado",
+    "notificationBody": "Su saldo disponible es ahora {amount}."
+  },
+  "home": {
+    "deposits": {
+      "title": "Depósitos exitosos",
+      "footer": "Ha enviado {total, plural, one {# depósito} other {# depósitos}}: {approved} aprobados, {pending} pendientes y {rejected} rechazados."
+    },
+    "withdrawals": {
+      "title": "Retiros exitosos",
+      "footer": "Ha solicitado {total, plural, one {# retiro} other {# retiros}}: {completed} completados, {pending} pendientes y {rejected} rechazados."
+    },
+    "earnings": {
+      "title": "Ganancias totales",
+      "footerActive": "Su plan {plan} está activo. La ganancia se acredita en su libro de movimientos a medida que se genera.",
+      "footerNone": "Aún no tiene un plan activo. Elija uno en la página Planes para comenzar."
+    },
+    "columns": {
+      "submitted": "Enviado",
+      "pending": "Pendiente",
+      "rejected": "Rechazado",
+      "available": "Disponible",
+      "deposited": "Depositado",
+      "plan": "Plan"
+    },
+    "none": "Ninguno",
+    "marketStats": "Estadísticas del mercado cripto"
+  },
+  "banners": {
+    "notifications": {
+      "resetTitle": "Restablecer las notificaciones del navegador",
+      "allowTitle": "Permita las notificaciones del navegador",
+      "deniedBody": "Las notificaciones están bloqueadas. Vuelva a activarlas para este sitio en la configuración de su navegador para recibir alertas de saldo.",
+      "allowBody": "Reciba una alerta cada vez que cambie su saldo; se le pedirá confirmación en su navegador.",
+      "allowButton": "Permitir notificaciones"
+    },
+    "twoFactor": {
+      "title": "Autenticación 2FA",
+      "body": "Para mantener su cuenta segura, <link>active la 2FA</link>. Hace que su cuenta y su saldo estén más protegidos."
+    },
+    "plans": {
+      "activeTitle": "Su plan: {plan}",
+      "noneTitle": "Aún no ha elegido un plan",
+      "body": "Explore los planes de inversión y active el que se ajuste a su saldo disponible.",
+      "changeButton": "Cambiar plan",
+      "chooseButton": "Elegir un plan"
+    }
+  },
+  "copyRow": {
+    "copy": "Copiar {label}"
+  },
+  "portfolio": {
+    "availableBalance": "Saldo disponible",
+    "totalProfit": "Ganancia total",
+    "activePlan": "Plan activo",
+    "none": "Ninguno"
+  },
+  "deposit": {
+    "heading": "Depositar",
+    "notSetUp": "Los datos de depósito aún no se han configurado. Contacte con soporte.",
+    "yourDeposits": "Sus depósitos",
+    "empty": "Aún no ha enviado ningún depósito.",
+    "details": {
+      "btcAddress": "Dirección de depósito en Bitcoin"
+    },
+    "form": {
+      "title": "Depositar Bitcoin",
+      "intro": "Indique el monto que desea depositar. Mostraremos el total a enviar en Bitcoin, incluida nuestra tarifa de procesamiento, a la dirección anterior.",
+      "amount": "Monto (USD)",
+      "qrAlt": "Código QR de la dirección de depósito en Bitcoin",
+      "qrCaption": "O escanee con su billetera",
+      "limit": "Límite",
+      "processingCharge": "Tarifa de procesamiento",
+      "processingChargeHint": "Cubre los costos de red y de procesamiento de los depósitos en Bitcoin.",
+      "total": "Total a enviar",
+      "reference": "Hash de la transacción / referencia (opcional)",
+      "referencePlaceholder": "Nos ayuda a encontrar su pago más rápido",
+      "success": "Depósito enviado. Aparecerá como pendiente hasta que lo verifiquemos.",
+      "submit": "Confirmar depósito"
+    }
+  },
+  "withdraw": {
+    "heading": "Retirar",
+    "yourWithdrawals": "Sus retiros",
+    "empty": "Aún no ha solicitado ningún retiro.",
+    "form": {
+      "title": "Solicitar retiro",
+      "amount": "Monto (USD)",
+      "method": "Método de retiro",
+      "selectMethod": "Seleccione un método",
+      "details": "Datos para el pago",
+      "detailsPlaceholder": "Datos de la cuenta bancaria o dirección de la billetera",
+      "success": "Solicitud de retiro enviada. Le enviaremos un correo cuando sea revisada.",
+      "submit": "Enviar solicitud"
+    }
+  },
+  "requestHistory": {
+    "columns": {
+      "amount": "Monto",
+      "method": "Método",
+      "status": "Estado",
+      "details": "Detalles",
+      "date": "Fecha"
+    }
+  },
+  "transactions": {
+    "heading": "Transacciones",
+    "filterLabel": "Filtrar transacciones",
+    "empty": "Aún no hay transacciones.",
+    "depositLabel": "Depósito · {method}",
+    "withdrawalLabel": "Retiro · {method}",
+    "filters": {
+      "all": "Todas",
+      "deposit": "Depósitos",
+      "withdrawal": "Retiros",
+      "ledger": "Ganancias y ajustes"
+    },
+    "columns": {
+      "amount": "Monto",
+      "transaction": "Transacción",
+      "status": "Estado",
+      "date": "Fecha"
+    }
+  },
+  "messages": {
+    "heading": "Mensajes",
+    "intro": "Chatee directamente con nuestro equipo de soporte sobre su cuenta.",
+    "placeholder": "Escriba un mensaje…",
+    "empty": "Aún no hay mensajes. Envíe uno y nuestro equipo le responderá.",
+    "send": "Enviar mensaje"
+  },
+  "statuses": {
+    "PENDING": "PENDIENTE",
+    "APPROVED": "APROBADO",
+    "COMPLETED": "COMPLETADO",
+    "REJECTED": "RECHAZADO",
+    "CREDIT": "CRÉDITO",
+    "DEBIT": "DÉBITO",
+    "PROFIT_YIELD": "RENDIMIENTO"
+  },
+  "methods": {
+    "BANK_TRANSFER": "Transferencia bancaria",
+    "BTC": "Bitcoin (BTC)",
+    "USDT": "USDT"
+  },
+  "twoFactor": {
+    "loading": "Cargando su configuración de seguridad…",
+    "onTitle": "La 2FA está activada",
+    "onBody": "Introducirá un código de su aplicación de autenticación cada vez que inicie sesión.",
+    "turnOff": "Desactivar 2FA",
+    "offTitle": "Proteja su cuenta con 2FA",
+    "offBody": "Utilice una aplicación de autenticación como Google Authenticator, Microsoft Authenticator o Authy para generar un código de un solo uso al iniciar sesión.",
+    "setUp": "Configurar 2FA",
+    "scanStep": "Escanee este código QR con su aplicación de autenticación.",
+    "qrAlt": "Código QR de 2FA",
+    "manualKey": "O introduzca esta clave manualmente",
+    "codeStep": "Introduzca el código de 6 dígitos que se muestra",
+    "codePlaceholder": "123456",
+    "verify": "Verificar y activar",
+    "cancel": "Cancelar",
+    "errors": {
+      "startFailed": "No se pudo iniciar la configuración de 2FA.",
+      "badCode": "Ese código no es válido. Revise el código en su aplicación de autenticación e inténtelo de nuevo."
+    }
+  },
+  "profile": {
+    "heading": "Ajustes del perfil",
+    "firstName": "Nombre",
+    "lastName": "Apellidos",
+    "phone": "Teléfono",
+    "country": "País",
+    "state": "Estado / provincia",
+    "zipCode": "Código postal",
+    "city": "Ciudad",
+    "email": "Correo electrónico",
+    "address": "Dirección",
+    "submit": "Enviar",
+    "success": "Perfil actualizado."
+  },
+  "changePassword": {
+    "current": "Contraseña actual",
+    "new": "Nueva contraseña",
+    "confirm": "Confirmar nueva contraseña",
+    "match": "Las contraseñas coinciden.",
+    "mismatch": "Las contraseñas no coinciden.",
+    "success": "Contraseña actualizada.",
+    "submit": "Actualizar contraseña"
+  },
+  "errors": {
+    "signedIn": "Debe iniciar sesión.",
+    "depositAmount": "Introduzca el monto que depositó.",
+    "withdrawalAmount": "Introduzca un monto de retiro válido.",
+    "payoutRequired": "El método de pago y sus datos son obligatorios.",
+    "namesRequired": "Su nombre y apellidos son obligatorios.",
+    "currentPasswordRequired": "Introduzca su contraseña actual.",
+    "passwordWeak": "La nueva contraseña debe tener al menos 8 caracteres e incluir una letra y un número.",
+    "passwordMismatch": "Las nuevas contraseñas no coinciden.",
+    "passwordSame": "Elija una contraseña distinta de la actual.",
+    "currentPasswordIncorrect": "Su contraseña actual es incorrecta.",
+    "planNotFound": "No se encontró ese plan.",
+    "planBelowMinimum": "Su saldo disponible es inferior al depósito mínimo de este plan, que es de {amount}.",
+    "depositOutsideLimits": "Introduzca un monto entre {min} y {max}.",
+    "messageBody": "Introduzca un mensaje para enviar.",
+    "messageTooLong": "El mensaje es demasiado largo. Manténgalo por debajo de 4000 caracteres."
+  },
+  "plans": {
+    "heading": "Planes de inversión",
+    "subtitle": "Elija el plan que corresponda al monto que tiene disponible para invertir.",
+    "perDays": "/ {days} días",
+    "mostPopular": "Más popular",
+    "current": "Plan actual",
+    "currentButton": "Plan actual",
+    "activate": "Activar este plan",
+    "switch": "Cambiar a este plan",
+    "locked": "Deposite al menos {amount} para desbloquear este plan.",
+    "depositCta": "Hacer un depósito",
+    "success": "Se activó el plan {plan}."
+  }
+}

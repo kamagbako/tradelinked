@@ -1,0 +1,32 @@
+{
+  "languageLabel": "Language",
+  "passwordRules": {
+    "length": "At least {min} characters",
+    "letter": "Contains a letter",
+    "number": "Contains a number"
+  },
+  "showPassword": "Show password",
+  "hidePassword": "Hide password",
+  "toggleTheme": "Toggle light and dark mode",
+  "toggleThemeTitle": "Toggle light / dark mode",
+  "close": "Close",
+  "noRecords": "No records yet.",
+  "errors": {
+    "unexpected": "Something went wrong. Please try again."
+  },
+  "errorBoundary": {
+    "title": "Something went wrong",
+    "description": "An unexpected error occurred. You can try again, or head back to a safe page.",
+    "tryAgain": "Try again",
+    "goHome": "Go to home page",
+    "goToDashboard": "Go to dashboard",
+    "goToAdmin": "Go to admin overview",
+    "reference": "Reference: {digest}",
+    "widgetFailed": "This section couldn't be loaded."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has moved.",
+    "backHome": "Back to home"
+  }
+}

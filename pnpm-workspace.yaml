@@ -1,0 +1,8 @@
+# Install scripts pnpm should not run. None are needed: these packages ship prebuilt binaries
+# (or are optional), and Next.js / ESLint / Vitest work without them.
+allowBuilds:
+  '@parcel/watcher': false
+  '@swc/core': false
+  unrs-resolver: false
+minimumReleaseAgeExclude:
+  - react-floating-dock@0.2.0 || 0.3.0

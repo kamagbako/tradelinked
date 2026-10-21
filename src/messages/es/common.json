@@ -1,0 +1,32 @@
+{
+  "languageLabel": "Idioma",
+  "passwordRules": {
+    "length": "Al menos {min} caracteres",
+    "letter": "Contiene una letra",
+    "number": "Contiene un número"
+  },
+  "showPassword": "Mostrar contraseña",
+  "hidePassword": "Ocultar contraseña",
+  "toggleTheme": "Cambiar entre modo claro y oscuro",
+  "toggleThemeTitle": "Cambiar modo claro / oscuro",
+  "close": "Cerrar",
+  "noRecords": "Aún no hay registros.",
+  "errors": {
+    "unexpected": "Algo salió mal. Inténtelo de nuevo."
+  },
+  "errorBoundary": {
+    "title": "Algo salió mal",
+    "description": "Se produjo un error inesperado. Puede intentarlo de nuevo o volver a una página segura.",
+    "tryAgain": "Reintentar",
+    "goHome": "Ir al inicio",
+    "goToDashboard": "Ir al panel",
+    "goToAdmin": "Ir al resumen de administración",
+    "reference": "Referencia: {digest}",
+    "widgetFailed": "No se pudo cargar esta sección."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que busca no existe o se ha movido.",
+    "backHome": "Volver al inicio"
+  }
+}

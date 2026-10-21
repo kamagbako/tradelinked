@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "title": "TradeLinked — Tradez plus malin, développez votre portefeuille",
+    "description": "TradeLinked est un portail de trading et d’investissement sécurisé offrant un accès aux marchés en temps réel, des registres transparents et un support dédié.",
+    "ogDescription": "Accès aux marchés en temps réel, registres transparents et support dédié pour investir en toute confiance.",
+    "twitterDescription": "Accès aux marchés en temps réel, registres transparents et support dédié."
+  },
+  "nav": {
+    "about": "À propos",
+    "howItWorks": "Comment ça marche",
+    "plans": "Plans",
+    "payments": "Paiements",
+    "security": "Sécurité",
+    "logIn": "Se connecter",
+    "getStarted": "Commencer",
+    "toggleMenu": "Afficher/masquer le menu"
+  },
+  "footer": {
+    "tagline": "Un portail de trading et d’investissement sécurisé, conçu pour une croissance transparente de votre portefeuille.",
+    "company": "Entreprise",
+    "about": "À propos",
+    "investmentPlans": "Plans d’investissement",
+    "security": "Sécurité",
+    "legal": "Mentions légales",
+    "terms": "Conditions d’utilisation",
+    "privacy": "Politique de confidentialité",
+    "riskDisclosure": "Avertissement sur les risques du Forex",
+    "account": "Compte",
+    "logIn": "Se connecter",
+    "register": "S’inscrire",
+    "copyright": "© {year} TradeLinked. Tous droits réservés. Le trading comporte des risques ; les performances passées ne garantissent pas les résultats futurs."
+  },
+  "hero": {
+    "badge": "Conservation réglementée · Chiffrement de niveau bancaire",
+    "title": "Tradez plus malin. <grow>Développez</grow> votre portefeuille en toute confiance.",
+    "subtitle": "TradeLinked vous offre un accès aux marchés en temps réel, des registres transparents et une équipe de support dédiée — tout ce qu’il faut pour investir en toute clarté.",
+    "createAccount": "Créer un compte gratuit",
+    "viewPlans": "Voir les plans d’investissement",
+    "stats": {
+      "aum": "Actifs sous gestion",
+      "traders": "Traders actifs",
+      "roi": "ROI mensuel moyen"
+    }
+  },
+  "about": {
+    "fastProgress": {
+      "title": "Une progression rapide",
+      "body": "Visualisez vos dépôts, profits et retraits dans votre registre en temps réel. Chaque mouvement est enregistré : vous savez toujours où en est votre solde."
+    },
+    "modernPlatform": {
+      "title": "Une plateforme moderne",
+      "body": "Un seul endroit pour les données de marché en direct, votre portefeuille et le support. Conçue d’abord pour le mobile, elle fonctionne aussi bien sur votre téléphone que sur votre ordinateur — et s’installe comme une application.",
+      "explorePlans": "Découvrir les plans"
+    },
+    "heading": "À propos de <brand>TradeLinked</brand>",
+    "whoWeAre": "Qui sommes-nous",
+    "lead": "Un portail de trading et d’investissement fondé sur la transparence, la rapidité et un support direct.",
+    "body": "TradeLinked offre à ses clients un accès en temps réel aux marchés mondiaux, une piste d’audit complète pour chaque variation de solde et une équipe de support à un message de distance. Nous gardons l’expérience simple : alimentez votre compte, activez un plan et suivez votre portefeuille depuis un tableau de bord clair.",
+    "disclaimer": "Le trading comporte des risques. Les chiffres présentés sur cette page sont donnés à titre indicatif et ne constituent pas une garantie de résultats futurs.",
+    "chartCaption": "Performance du portefeuille · données d’exemple à titre d’illustration",
+    "thisMonth": "Ce mois-ci",
+    "anywhereHeading": "Accédez à tous vos investissements et gérez-les où que vous soyez",
+    "anywhereBody": "Votre tableau de bord vous suit sur tous vos appareils. Installez TradeLinked sur votre écran d’accueil pour accéder en un geste aux marchés en direct, à votre solde et à votre registre.",
+    "getStarted": "Commencer",
+    "installable": "Installable sur iOS et Android"
+  },
+  "howItWorks": {
+    "heading": "Comment fonctionne TradeLinked",
+    "subtitle": "Un processus simple en quatre étapes — de la création de votre compte au retrait de vos fonds.",
+    "stepLabel": "Étape {step}.",
+    "steps": {
+      "create": {
+        "title": "Créez votre compte",
+        "body": "Inscrivez-vous avec votre e-mail en moins d’une minute. Votre tableau de bord, votre registre et l’accès au support sont prêts dès votre connexion."
+      },
+      "fund": {
+        "title": "Alimentez votre solde",
+        "body": "Ouvrez Dépôt rapide dans votre tableau de bord et envoyez les fonds aux coordonnées de paiement indiquées. Notre équipe crédite votre solde dès que le transfert est confirmé."
+      },
+      "activate": {
+        "title": "Activez un plan et suivez-le",
+        "body": "Contactez le support pour activer le plan qui vous convient, puis suivez chaque crédit et débit dans votre registre en direct, au fur et à mesure."
+      },
+      "withdraw": {
+        "title": "Retirez quand vous le souhaitez",
+        "body": "Soumettez une demande de retrait depuis votre tableau de bord. Notre équipe l’examine et vous recevez un e-mail dès qu’elle est approuvée ou refusée."
+      }
+    }
+  },
+  "plans": {
+    "heading": "Plans d’investissement",
+    "subtitle": "Choisissez un plan adapté à vos objectifs d’investissement.",
+    "mostPopular": "Le plus populaire",
+    "perDays": "/ {days} jours",
+    "contactSupport": "Contacter le support pour investir",
+    "drawerTitle": "Investir dans {plan}",
+    "drawerBody": "Pour démarrer avec le plan <plan>{name}</plan>, contactez notre équipe de support. Elle vous guidera pour alimenter votre compte et activer le plan.",
+    "chatWhatsApp": "Discuter sur WhatsApp",
+    "items": {
+      "starter": {
+        "name": "Starter",
+        "features": {
+          "ticker": "Accès quotidien au ticker de marché",
+          "email": "Support par e-mail",
+          "ledger": "Suivi instantané du registre"
+        }
+      },
+      "growth": {
+        "name": "Growth",
+        "features": {
+          "withdrawal": "Examen prioritaire des retraits",
+          "whatsapp": "Support WhatsApp",
+          "note": "Note de compte dédiée"
+        }
+      },
+      "elite": {
+        "name": "Elite",
+        "features": {
+          "manager": "Gestionnaire de compte personnel",
+          "payout": "Planification des versements sur mesure",
+          "priority": "Ligne de support prioritaire"
+        }
+      }
+    }
+  },
+  "payments": {
+    "heading": "Moyens de paiement acceptés",
+    "subtitle": "Alimentez votre compte avec des moyens de paiement courants et pratiques. Les coordonnées exactes de dépôt sont affichées en toute sécurité dans votre tableau de bord.",
+    "bankTransfer": "Virement bancaire"
+  },
+  "security": {
+    "heading": "Conçu pour la sécurité",
+    "subtitle": "Votre capital et vos données sont protégés à chaque niveau.",
+    "features": {
+      "encryption": {
+        "title": "Chiffrement de niveau bancaire",
+        "description": "Toutes les données en transit et au repos sont chiffrées avec la norme AES-256."
+      },
+      "custody": {
+        "title": "Conservation séparée",
+        "description": "Les fonds des clients sont détenus séparément du capital d’exploitation en permanence."
+      },
+      "auth": {
+        "title": "Authentification sécurisée",
+        "description": "Authentification par session avec sécurité au niveau des lignes pour chaque requête de base de données."
+      },
+      "audit": {
+        "title": "Piste d’audit complète",
+        "description": "Chaque variation de solde est consignée et traçable dans l’historique de votre registre."
+      }
+    }
+  },
+  "partners": {
+    "heading": "Nos partenaires stratégiques",
+    "subtitle": "TradeLinked s’est associé à plusieurs projets, renforçant notre présence sur les marchés mondiaux."
+  },
+  "cta": {
+    "heading": "Prêt à commencer ?",
+    "body": "Créez votre compte gratuit dès aujourd’hui et découvrez la plateforme à votre rythme.",
+    "button": "Créer un compte gratuit"
+  },
+  "chat": {
+    "dialogLabel": "Chat du support client",
+    "title": "Support client",
+    "replyTime": "Répond généralement en quelques minutes",
+    "greeting": "Bonjour ! Comment puis-je vous aider aujourd’hui ?",
+    "continueWhatsApp": "Continuer sur WhatsApp",
+    "typing": "Le support est en train d’écrire",
+    "placeholder": "Saisissez un message…",
+    "inputLabel": "Saisissez un message",
+    "send": "Envoyer le message",
+    "close": "Fermer le chat du support",
+    "open": "Ouvrir le chat du support",
+    "replyWhatsApp": "Merci pour votre message ! Notre équipe de support peut poursuivre avec vous directement sur WhatsApp.",
+    "replyLogin": "Merci pour votre message ! Veuillez vous connecter ou vous inscrire, et notre équipe de support vous assistera ensuite.",
+    "topics": {
+      "deposit": {
+        "label": "Comment déposer des fonds ?",
+        "answer": "Créez un compte, ouvrez votre tableau de bord et appuyez sur Dépôt rapide. Envoyez les fonds aux coordonnées indiquées, et notre équipe créditera votre solde dès que le transfert sera confirmé."
+      },
+      "withdraw": {
+        "label": "Comment fonctionnent les retraits ?",
+        "answer": "Soumettez une demande de retrait depuis votre tableau de bord. Notre équipe l’examine et vous recevrez un e-mail dès qu’elle sera approuvée ou refusée."
+      },
+      "plans": {
+        "label": "Quels plans sont disponibles ?",
+        "answer": "Nous proposons les plans Starter, Growth et Elite. Consultez la section Plans d’investissement de cette page pour connaître les fourchettes de dépôt et les avantages, puis contactez le support pour en activer un."
+      },
+      "person": {
+        "label": "Parler à un conseiller",
+        "answer": "Avec plaisir, je vous mets en relation avec notre équipe de support.",
+        "handoff": "Bonjour, je souhaiterais parler au support."
+      }
+    }
+  },
+  "legal": {
+    "backToRegistration": "Retour à l’inscription",
+    "lastUpdated": "Dernière mise à jour : {updated}",
+    "updated": "septembre 2026",
+    "terms": {
+      "title": "Conditions d’utilisation",
+      "sections": {
+        "acceptance": {
+          "heading": "1. Acceptation",
+          "body": "En créant un compte, vous acceptez les présentes Conditions. Si vous ne les acceptez pas, n’utilisez pas la plateforme."
+        },
+        "account": {
+          "heading": "2. Votre compte",
+          "body": "Vous devez fournir des informations exactes et préserver la confidentialité de vos identifiants de connexion. Vous êtes responsable de toute activité sur votre compte."
+        },
+        "transactions": {
+          "heading": "3. Dépôts et retraits",
+          "body": "Les dépôts sont crédités après confirmation de leur réception par notre équipe. Les demandes de retrait sont examinées avant approbation et peuvent être rejetées ou retardées pour des raisons de vérification, de sécurité ou de conformité."
+        },
+        "restrictions": {
+          "heading": "4. Restrictions de compte",
+          "body": "Nous pouvons geler ou fermer les comptes qui enfreignent les présentes Conditions ou que nous soupçonnons raisonnablement d’utilisation abusive."
+        },
+        "changes": {
+          "heading": "5. Modifications",
+          "body": "Nous pouvons mettre à jour les présentes Conditions. La poursuite de l’utilisation de la plateforme vaut acceptation de la version mise à jour."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "sections": {
+        "collect": {
+          "heading": "Informations que nous collectons",
+          "body": "Nous collectons les informations que vous nous fournissez lors de l’inscription (nom, e-mail) ainsi que l’historique de l’activité de votre compte, tel que les dépôts, les retraits et les écritures du registre."
+        },
+        "use": {
+          "heading": "Comment nous les utilisons",
+          "body": "Pour gérer votre compte, traiter les transactions, envoyer des e-mails de service (comme les mises à jour de retrait), sécuriser la plateforme et respecter nos obligations légales."
+        },
+        "sharing": {
+          "heading": "Partage",
+          "body": "Nous ne vendons pas vos données personnelles. Nous ne les partageons qu’avec les prestataires qui nous aident à faire fonctionner la plateforme (par exemple l’hébergement et l’envoi d’e-mails) ou lorsque la loi l’exige."
+        },
+        "rights": {
+          "heading": "Vos droits",
+          "body": "Vous pouvez contacter le support pour demander l’accès à vos données personnelles, leur rectification ou leur suppression."
+        }
+      }
+    },
+    "risk": {
+      "title": "Avertissement sur les risques du Forex",
+      "sections": {
+        "highRisk": {
+          "heading": "Le trading comporte un niveau de risque élevé",
+          "body": "Le trading de devises, d’actions, de crypto-actifs et d’autres produits à effet de levier comporte des risques importants et ne convient pas à tout le monde. Vous pouvez perdre tout ou partie du capital investi."
+        },
+        "noGuarantee": {
+          "heading": "Aucune garantie de rendement",
+          "body": "Les performances passées ne sont pas un indicateur fiable des résultats futurs. Les chiffres présentés sur ce site sont donnés à titre indicatif et ne constituent ni une promesse ni une garantie de profit."
+        },
+        "affordToLose": {
+          "heading": "N’investissez que ce que vous pouvez vous permettre de perdre",
+          "body": "Avant d’investir, tenez compte de vos objectifs, de votre expérience et de votre situation financière, et sollicitez un conseil financier indépendant en cas de doute."
+        },
+        "marketRisk": {
+          "heading": "Risque de marché et de liquidité",
+          "body": "Les prix peuvent évoluer rapidement et de manière imprévisible. Les conditions de marché peuvent retarder ou empêcher l’exécution des transactions."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "languageLabel": "Sprache",
+  "passwordRules": {
+    "length": "Mindestens {min} Zeichen",
+    "letter": "Enthält einen Buchstaben",
+    "number": "Enthält eine Zahl"
+  },
+  "showPassword": "Passwort anzeigen",
+  "hidePassword": "Passwort verbergen",
+  "toggleTheme": "Zwischen hellem und dunklem Modus wechseln",
+  "toggleThemeTitle": "Heller / dunkler Modus umschalten",
+  "close": "Schließen",
+  "noRecords": "Noch keine Einträge.",
+  "errors": {
+    "unexpected": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+  },
+  "errorBoundary": {
+    "title": "Etwas ist schiefgelaufen",
+    "description": "Es ist ein unerwarteter Fehler aufgetreten. Sie können es erneut versuchen oder zu einer sicheren Seite zurückkehren.",
+    "tryAgain": "Erneut versuchen",
+    "goHome": "Zur Startseite",
+    "goToDashboard": "Zum Dashboard",
+    "goToAdmin": "Zur Admin-Übersicht",
+    "reference": "Referenz: {digest}",
+    "widgetFailed": "Dieser Bereich konnte nicht geladen werden."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zurück zur Startseite"
+  }
+}

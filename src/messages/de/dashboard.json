@@ -1,0 +1,264 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "deposit": "Einzahlen",
+    "withdraw": "Auszahlen",
+    "transactions": "Transaktionen",
+    "messages": "Nachrichten",
+    "twoFactor": "2FA-Einstellungen",
+    "profile": "Profil",
+    "changePassword": "Passwort ändern",
+    "plans": "Pläne"
+  },
+  "shell": {
+    "navLabel": "Dashboard",
+    "deposit": "Einzahlen",
+    "withdraw": "Auszahlen",
+    "adminPanel": "Admin-Bereich",
+    "logout": "Abmelden"
+  },
+  "avatarMenu": {
+    "accountMenu": "Kontomenü",
+    "yourAccount": "Ihr Konto",
+    "profile": "Profil",
+    "changePassword": "Passwort ändern",
+    "adminPanel": "Admin-Bereich",
+    "logOut": "Abmelden"
+  },
+  "mobileNav": {
+    "main": "Hauptmenü",
+    "more": "Mehr",
+    "moreMenu": "Weiteres Menü",
+    "menu": "Menü",
+    "admin": "Admin",
+    "theme": "Design",
+    "logOut": "Abmelden",
+    "language": "Sprache",
+    "tabs": {
+      "home": "Start",
+      "deposit": "Einzahlen",
+      "withdraw": "Auszahlen",
+      "history": "Verlauf"
+    }
+  },
+  "sidebarBalance": {
+    "accountBalance": "Kontostand",
+    "notificationTitle": "TradeLinked-Kontostand aktualisiert",
+    "notificationBody": "Ihr verfügbares Guthaben beträgt jetzt {amount}."
+  },
+  "home": {
+    "deposits": {
+      "title": "Erfolgreiche Einzahlungen",
+      "footer": "Sie haben {total, plural, one {# Einzahlung} other {# Einzahlungen}} eingereicht: {approved} genehmigt, {pending} ausstehend und {rejected} abgelehnt."
+    },
+    "withdrawals": {
+      "title": "Erfolgreiche Auszahlungen",
+      "footer": "Sie haben {total, plural, one {# Auszahlung} other {# Auszahlungen}} beantragt: {completed} abgeschlossen, {pending} ausstehend und {rejected} abgelehnt."
+    },
+    "earnings": {
+      "title": "Gesamterträge",
+      "footerActive": "Ihr Plan {plan} ist aktiv. Gewinne werden Ihrem Kontobuch gutgeschrieben, sobald sie erzielt werden.",
+      "footerNone": "Sie haben noch keinen aktiven Plan. Wählen Sie auf der Seite „Pläne“ einen aus, um zu beginnen."
+    },
+    "columns": {
+      "submitted": "Eingereicht",
+      "pending": "Ausstehend",
+      "rejected": "Abgelehnt",
+      "available": "Verfügbar",
+      "deposited": "Eingezahlt",
+      "plan": "Plan"
+    },
+    "none": "Keiner",
+    "marketStats": "Krypto-Marktdaten"
+  },
+  "banners": {
+    "notifications": {
+      "resetTitle": "Browser-Benachrichtigungen zurücksetzen",
+      "allowTitle": "Bitte erlauben Sie Browser-Benachrichtigungen",
+      "deniedBody": "Benachrichtigungen sind blockiert. Aktivieren Sie sie in Ihren Browsereinstellungen für diese Website erneut, um Kontostand-Hinweise zu erhalten.",
+      "allowBody": "Erhalten Sie einen Hinweis, sobald sich Ihr Kontostand ändert. Sie müssen dies in Ihrem Browser bestätigen.",
+      "allowButton": "Benachrichtigungen erlauben"
+    },
+    "twoFactor": {
+      "title": "2FA-Authentifizierung",
+      "body": "Zum Schutz Ihres Kontos <link>aktivieren Sie bitte 2FA</link>. So sind Ihr Konto und Ihr Guthaben besser gesichert."
+    },
+    "plans": {
+      "activeTitle": "Ihr Plan: {plan}",
+      "noneTitle": "Sie haben noch keinen Plan gewählt",
+      "body": "Sehen Sie sich die Investmentpläne an und aktivieren Sie den, der zu Ihrem verfügbaren Guthaben passt.",
+      "changeButton": "Plan ändern",
+      "chooseButton": "Plan wählen"
+    }
+  },
+  "copyRow": {
+    "copy": "{label} kopieren"
+  },
+  "portfolio": {
+    "availableBalance": "Verfügbares Guthaben",
+    "totalProfit": "Gesamtgewinn",
+    "activePlan": "Aktiver Plan",
+    "none": "Keiner"
+  },
+  "deposit": {
+    "heading": "Einzahlen",
+    "notSetUp": "Die Einzahlungsdaten wurden noch nicht eingerichtet. Bitte kontaktieren Sie den Support.",
+    "yourDeposits": "Ihre Einzahlungen",
+    "empty": "Sie haben noch keine Einzahlungen eingereicht.",
+    "details": {
+      "btcAddress": "Bitcoin-Einzahlungsadresse"
+    },
+    "form": {
+      "title": "Bitcoin einzahlen",
+      "intro": "Geben Sie den Betrag ein, den Sie einzahlen möchten. Wir zeigen Ihnen den Gesamtbetrag, den Sie in Bitcoin an die obige Adresse senden sollten, inklusive unserer Bearbeitungsgebühr.",
+      "amount": "Betrag (USD)",
+      "qrAlt": "QR-Code für die Bitcoin-Einzahlungsadresse",
+      "qrCaption": "Oder mit Ihrer Wallet-App scannen",
+      "limit": "Limit",
+      "processingCharge": "Bearbeitungsgebühr",
+      "processingChargeHint": "Deckt Netzwerk- und Bearbeitungskosten für Bitcoin-Einzahlungen ab.",
+      "total": "Zu sendender Gesamtbetrag",
+      "reference": "Transaktions-Hash / Referenz (optional)",
+      "referencePlaceholder": "Hilft uns, Ihre Zahlung schneller zu finden",
+      "success": "Einzahlung eingereicht. Sie bleibt ausstehend, bis wir sie geprüft haben.",
+      "submit": "Einzahlung bestätigen"
+    }
+  },
+  "withdraw": {
+    "heading": "Auszahlen",
+    "yourWithdrawals": "Ihre Auszahlungen",
+    "empty": "Sie haben noch keine Auszahlungen beantragt.",
+    "form": {
+      "title": "Auszahlung beantragen",
+      "amount": "Betrag (USD)",
+      "method": "Auszahlungsmethode",
+      "selectMethod": "Methode auswählen",
+      "details": "Auszahlungsdaten",
+      "detailsPlaceholder": "Bankverbindung oder Wallet-Adresse",
+      "success": "Auszahlungsantrag eingereicht. Wir informieren Sie per E-Mail, sobald er geprüft wurde.",
+      "submit": "Antrag senden"
+    }
+  },
+  "requestHistory": {
+    "columns": {
+      "amount": "Betrag",
+      "method": "Methode",
+      "status": "Status",
+      "details": "Details",
+      "date": "Datum"
+    }
+  },
+  "transactions": {
+    "heading": "Transaktionen",
+    "filterLabel": "Transaktionen filtern",
+    "empty": "Noch keine Transaktionen.",
+    "depositLabel": "Einzahlung · {method}",
+    "withdrawalLabel": "Auszahlung · {method}",
+    "filters": {
+      "all": "Alle",
+      "deposit": "Einzahlungen",
+      "withdrawal": "Auszahlungen",
+      "ledger": "Gewinne & Anpassungen"
+    },
+    "columns": {
+      "amount": "Betrag",
+      "transaction": "Transaktion",
+      "status": "Status",
+      "date": "Datum"
+    }
+  },
+  "messages": {
+    "heading": "Nachrichten",
+    "intro": "Chatten Sie direkt mit unserem Support-Team über Ihr Konto.",
+    "placeholder": "Nachricht eingeben…",
+    "empty": "Noch keine Nachrichten. Senden Sie eine, und unser Team meldet sich bei Ihnen.",
+    "send": "Nachricht senden"
+  },
+  "statuses": {
+    "PENDING": "AUSSTEHEND",
+    "APPROVED": "GENEHMIGT",
+    "COMPLETED": "ABGESCHLOSSEN",
+    "REJECTED": "ABGELEHNT",
+    "CREDIT": "GUTSCHRIFT",
+    "DEBIT": "BELASTUNG",
+    "PROFIT_YIELD": "GEWINNERTRAG"
+  },
+  "methods": {
+    "BANK_TRANSFER": "Banküberweisung",
+    "BTC": "Bitcoin (BTC)",
+    "USDT": "USDT"
+  },
+  "twoFactor": {
+    "loading": "Ihre Sicherheitseinstellungen werden geladen…",
+    "onTitle": "2FA ist aktiv",
+    "onBody": "Bei jeder Anmeldung geben Sie einen Code aus Ihrer Authenticator-App ein.",
+    "turnOff": "2FA deaktivieren",
+    "offTitle": "Schützen Sie Ihr Konto mit 2FA",
+    "offBody": "Verwenden Sie eine Authenticator-App wie Google Authenticator, Microsoft Authenticator oder Authy, um bei der Anmeldung einen Einmalcode zu erzeugen.",
+    "setUp": "2FA einrichten",
+    "scanStep": "Scannen Sie diesen QR-Code mit Ihrer Authenticator-App.",
+    "qrAlt": "2FA-QR-Code",
+    "manualKey": "Oder geben Sie diesen Schlüssel manuell ein",
+    "codeStep": "Geben Sie den angezeigten 6-stelligen Code ein",
+    "codePlaceholder": "123456",
+    "verify": "Bestätigen und aktivieren",
+    "cancel": "Abbrechen",
+    "errors": {
+      "startFailed": "Die 2FA-Einrichtung konnte nicht gestartet werden.",
+      "badCode": "Dieser Code hat nicht funktioniert. Prüfen Sie den Code in Ihrer Authenticator-App und versuchen Sie es erneut."
+    }
+  },
+  "profile": {
+    "heading": "Profileinstellungen",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "phone": "Telefon",
+    "country": "Land",
+    "state": "Bundesland",
+    "zipCode": "PLZ",
+    "city": "Stadt",
+    "email": "E-Mail",
+    "address": "Adresse",
+    "submit": "Speichern",
+    "success": "Profil aktualisiert."
+  },
+  "changePassword": {
+    "current": "Aktuelles Passwort",
+    "new": "Neues Passwort",
+    "confirm": "Neues Passwort bestätigen",
+    "match": "Die Passwörter stimmen überein.",
+    "mismatch": "Die Passwörter stimmen nicht überein.",
+    "success": "Passwort aktualisiert.",
+    "submit": "Passwort aktualisieren"
+  },
+  "errors": {
+    "signedIn": "Sie müssen angemeldet sein.",
+    "depositAmount": "Geben Sie den eingezahlten Betrag ein.",
+    "withdrawalAmount": "Geben Sie einen gültigen Auszahlungsbetrag ein.",
+    "payoutRequired": "Auszahlungsmethode und -daten sind erforderlich.",
+    "namesRequired": "Ihr Vor- und Nachname sind erforderlich.",
+    "currentPasswordRequired": "Geben Sie Ihr aktuelles Passwort ein.",
+    "passwordWeak": "Das neue Passwort muss mindestens 8 Zeichen lang sein und einen Buchstaben sowie eine Zahl enthalten.",
+    "passwordMismatch": "Die neuen Passwörter stimmen nicht überein.",
+    "passwordSame": "Wählen Sie ein Passwort, das sich von Ihrem aktuellen unterscheidet.",
+    "currentPasswordIncorrect": "Ihr aktuelles Passwort ist falsch.",
+    "planNotFound": "Dieser Plan konnte nicht gefunden werden.",
+    "planBelowMinimum": "Ihr verfügbares Guthaben liegt unter der Mindesteinzahlung dieses Plans von {amount}.",
+    "depositOutsideLimits": "Geben Sie einen Betrag zwischen {min} und {max} ein.",
+    "messageBody": "Geben Sie eine Nachricht zum Senden ein.",
+    "messageTooLong": "Die Nachricht ist zu lang. Begrenzen Sie sie auf 4000 Zeichen."
+  },
+  "plans": {
+    "heading": "Investmentpläne",
+    "subtitle": "Wählen Sie den Plan, der zu Ihrem verfügbaren Anlagebetrag passt.",
+    "perDays": "/ {days} Tage",
+    "mostPopular": "Am beliebtesten",
+    "current": "Aktueller Plan",
+    "currentButton": "Aktueller Plan",
+    "activate": "Diesen Plan aktivieren",
+    "switch": "Zu diesem Plan wechseln",
+    "locked": "Zahlen Sie mindestens {amount} ein, um diesen Plan freizuschalten.",
+    "depositCta": "Einzahlung vornehmen",
+    "success": "Plan {plan} wurde aktiviert."
+  }
+}
