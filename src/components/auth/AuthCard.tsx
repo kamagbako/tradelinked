@@ -1,9 +1,8 @@
-import Link from "next/link";
-import { TrendingUp } from "lucide-react";
 import type { ReactNode } from "react";
 import { Reveal } from "@/components/motion/Reveal";
 import { LanguageSwitcher } from "@/components/ui/LanguageSwitcher";
 import { ThemeToggle } from "@/components/ui/ThemeToggle";
+import { Logo } from "@/components/ui/Logo";
 
 export function AuthCard({
   title,
@@ -22,10 +21,9 @@ export function AuthCard({
         <LanguageSwitcher />
         <ThemeToggle />
       </div>
-      <Link href="/" className="mb-8 flex items-center gap-2 font-semibold text-text">
-        <TrendingUp className="h-6 w-6 text-emerald-500" />
-        TradeLinked
-      </Link>
+      <div className="mb-8">
+        <Logo href="/" />
+      </div>
 
       <Reveal y={20} className="w-full max-w-sm rounded-2xl border border-border bg-surface p-6 sm:p-8">
         <h1 className="text-xl font-semibold text-text">{title}</h1>

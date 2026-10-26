@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { LogOut, ShieldCheck, TrendingUp } from "lucide-react";
 import { useEffect, useState, type ReactNode } from "react";
+import { Logo } from "@/components/ui/Logo";
 import { AvatarMenu } from "@/components/dashboard/AvatarMenu";
 import { MobileNav } from "@/components/dashboard/MobileNav";
 import { SidebarBalance } from "@/components/dashboard/SidebarBalance";
@@ -71,10 +72,9 @@ export function DashboardShell({
     <div className="min-h-screen bg-bg">
       {/* Desktop sidebar */}
       <aside className="fixed inset-y-0 left-0 z-30 hidden w-72 flex-col overflow-y-auto border-r border-border bg-surface lg:flex">
-        <Link href="/dashboard" className="flex h-20 items-center gap-2 px-7 font-semibold text-text">
-          <TrendingUp className="h-7 w-7 text-emerald-500" />
-          <span className="text-lg">TradeLinked</span>
-        </Link>
+        <div className="flex h-20 items-center px-7">
+          <Logo href="/dashboard" iconClassName="h-8 w-8" textClassName="text-xl" />
+        </div>
 
         <div className="px-7 pt-4">
           <SidebarBalance userId={userId} initialBalance={balance} />
@@ -150,10 +150,9 @@ export function DashboardShell({
       <div className="lg:pl-72">
         {/* Top bar */}
         <header className="sticky top-0 z-20 flex h-16 items-center justify-between gap-3 border-b border-border bg-bg/80 px-4 backdrop-blur-md sm:px-6 lg:h-20 lg:px-10">
-          <Link href="/dashboard" className="flex items-center gap-2 font-semibold text-text lg:hidden">
-            <TrendingUp className="h-6 w-6 text-emerald-500" />
-            <span className="hidden min-[380px]:inline">TradeLinked</span>
-          </Link>
+          <div className="lg:hidden">
+            <Logo href="/dashboard" />
+          </div>
           <span className="hidden lg:block" />
 
           <div className="flex items-center gap-2">

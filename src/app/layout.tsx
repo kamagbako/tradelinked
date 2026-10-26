@@ -27,17 +27,29 @@ export async function generateMetadata(): Promise<Metadata> {
       description: t("ogDescription"),
       url: siteUrl,
       siteName: "TradeLinked",
+      images: [
+        {
+          url: "/og-image.png",
+          width: 1200,
+          height: 630,
+          alt: "TradeLinked - Institutional Trading & Investment Platform",
+        },
+      ],
       type: "website",
     },
     twitter: {
       card: "summary_large_image",
       title: t("title"),
       description: t("twitterDescription"),
+      images: ["/og-image.png"],
     },
     manifest: "/manifest.webmanifest",
     icons: {
-      icon: "/icons/icon-192.png",
-      apple: "/icons/icon-192.png",
+      icon: [
+        { url: "/favicon.png", sizes: "64x64", type: "image/png" },
+        { url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
+      ],
+      apple: "/apple-touch-icon.png",
     },
   };
 }

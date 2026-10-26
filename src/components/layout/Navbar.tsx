@@ -8,6 +8,7 @@ import { Menu, TrendingUp, X } from "lucide-react";
 import { Button } from "@/components/ui/Button";
 import { LanguageSwitcher } from "@/components/ui/LanguageSwitcher";
 import { ThemeToggle } from "@/components/ui/ThemeToggle";
+import { Logo } from "@/components/ui/Logo";
 
 const links = [
   { href: "/#about", key: "about" },
@@ -29,10 +30,7 @@ export function Navbar() {
       className="sticky top-0 z-40 border-b border-border bg-bg/80 backdrop-blur-md"
     >
       <nav className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2 font-semibold text-text">
-          <TrendingUp className="h-6 w-6 text-emerald-500" />
-          TradeLinked
-        </Link>
+        <Logo href="/" />
 
         <div className="hidden items-center gap-8 md:flex">
           {links.map((link) => (

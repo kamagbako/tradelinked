@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useTranslations } from "next-intl";
-import { TrendingUp } from "lucide-react";
+import { Logo } from "@/components/ui/Logo";
 
 export function Footer() {
   const t = useTranslations("landing.footer");
@@ -10,9 +10,8 @@ export function Footer() {
       <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
         <div className="flex flex-col gap-8 sm:flex-row sm:justify-between">
           <div>
-            <div className="mb-2 flex items-center gap-2 font-semibold text-text">
-              <TrendingUp className="h-5 w-5 text-emerald-500" />
-              TradeLinked
+            <div className="mb-2">
+              <Logo href="/" />
             </div>
             <p className="max-w-xs text-sm text-text-muted">
               {t("tagline")}

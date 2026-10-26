@@ -4,6 +4,7 @@ import { useEffect, useRef, useState, type FormEvent } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { MessageCircle, MessageSquare, Send, TrendingUp, X } from "lucide-react";
+import { LogoIcon } from "@/components/ui/Logo";
 import { cn } from "@/lib/utils";
 
 interface Message {
@@ -92,7 +93,7 @@ export function ChatWidget({ className }: { className?: string }) {
           >
             <div className="flex flex-col items-center gap-1 border-b border-border bg-gradient-to-b from-emerald-500/15 to-transparent px-5 py-5 text-center">
               <span className="flex h-12 w-12 items-center justify-center rounded-full bg-emerald-500/15">
-                <TrendingUp className="h-6 w-6 text-emerald-500" />
+                <LogoIcon className="h-7 w-7" />
               </span>
               <p className="text-sm font-semibold text-text">{t("title")}</p>
               <p className="flex items-center gap-1.5 text-xs text-text-muted">
